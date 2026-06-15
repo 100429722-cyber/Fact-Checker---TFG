@@ -6,7 +6,7 @@ Sistema de verificación automática de afirmaciones (*fact-checking*) para cont
 
 ## Requisitos
 
-- **Python 3.10 o superior** — descargable desde [python.org](https://www.python.org/downloads/). Durante la instalación en Windows, marcar la opción **"Add Python to PATH"**.
+- **Python 3.11 o 3.12 (recomendado)** — descargable desde [python.org](https://www.python.org/downloads/). Durante la instalación en Windows, marcar la opción **"Add Python to PATH"**. Se desaconseja usar Python 3.13 o superior, ya que algunas dependencias como PyTorch o faster-whisper aún no tienen soporte estable para esas versiones.
 - Conexión a internet (para recuperación de evidencia)
 - CPU con al menos 8 GB de RAM recomendados (la inferencia NLI se ejecuta en CPU)
 
