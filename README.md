@@ -68,35 +68,18 @@ python -m spacy download es_core_news_lg
 
 ## Uso
 
-### Pipeline por consola (texto libre)
+### Interfaz web (recomendado)
 
 ```bash
-python main.py
+python -m streamlit run app.py
 ```
 
-Pega o escribe el texto cuando se solicite y pulsa Enter dos veces para iniciar el análisis.
+Abre el navegador en `http://localhost:8501`. Desde la interfaz se puede:
+- Pegar un texto o introducir una URL de YouTube para analizarlo
+- Seleccionar el modo de extracción: heurístico (por defecto) o basado en LLM
+- Ver los veredictos, fuentes y nivel de confianza de cada afirmación
 
-### Pipeline desde archivo de texto
-
-```bash
-python main.py texto.txt
-```
-
-### Guardar resultados en JSON
-
-```bash
-python main.py texto.txt --save
-```
-
-Los resultados se guardan en `results.json`.
-
-### Usar el extractor basado en LLM (Claude Haiku)
-
-```bash
-python main.py --llm
-```
-
-Requiere una API key de Anthropic definida como variable de entorno:
+**Extractor LLM (opcional):** el modo LLM utiliza Claude Haiku para extraer afirmaciones de mayor calidad semántica. Requiere una API key de Anthropic definida como variable de entorno antes de lanzar la aplicación:
 
 ```bash
 # Windows
@@ -104,14 +87,6 @@ set ANTHROPIC_API_KEY=tu_api_key
 # Linux / macOS
 export ANTHROPIC_API_KEY=tu_api_key
 ```
-
-### Interfaz web (Streamlit)
-
-```bash
-python -m streamlit run app.py
-```
-
-Abre el navegador en `http://localhost:8501`. Permite analizar texto libre o vídeos de YouTube desde una interfaz visual.
 
 ---
 
@@ -133,6 +108,38 @@ python evaluation/evaluate_videos.py
 
 ```bash
 python evaluation/generate_benchmark.py
+```
+
+---
+
+## Uso por consola (avanzado)
+
+### Texto libre
+
+```bash
+python main.py
+```
+
+Pega o escribe el texto cuando se solicite y pulsa Enter dos veces para iniciar el análisis.
+
+### Desde archivo de texto
+
+```bash
+python main.py texto.txt
+```
+
+### Guardar resultados en JSON
+
+```bash
+python main.py texto.txt --save
+```
+
+Los resultados se guardan en `results.json`.
+
+### Usar el extractor LLM desde consola
+
+```bash
+python main.py --llm
 ```
 
 ---
