@@ -1,0 +1,2000 @@
+claim,category,true_label
+"El primer ordenador electrónico programable general fue el ENIAC, terminado en 1945.",ciencia,VERDADERO
+El colesterol es dañino para la salud y no tiene ninguna función en el organismo.,ciencia,FALSO
+La hiperinflación implica una inflación anual superior al 5%.,economia,FALSO
+"La armada española, la 'Armada Invencible', fue derrotada por Inglaterra en 1588.",historia,VERDADERO
+Carlos I de España fue también el emperador Carlos V del Sacro Imperio Romano.,historia,VERDADERO
+El número de aficionados españoles que viajaron a la Eurocopa 2024 fue de exactamente 250.000.,deportes,NO_VERIFICABLE
+El precio medio de la vivienda en Madrid aumentó un 12% en 2025.,economia,NO_VERIFICABLE
+Julio César fue asesinado en el año 44 d.C.,historia,FALSO
+La catedral de Santiago de Compostela es el destino del Camino de Santiago.,cultura,VERDADERO
+Vox es un partido político de izquierda radical español.,politica,FALSO
+Los Juegos Olímpicos de Barcelona se celebraron en 1992.,historia,VERDADERO
+Jorge Lorenzo ganó tres campeonatos mundiales de MotoGP.,deportes,VERDADERO
+El número de deportistas españoles que participaron en los JJOO de París 2024 fue de 340.,deportes,NO_VERIFICABLE
+Las bases tienen un pH superior a 7.,ciencia,VERDADERO
+La longitud de onda de la luz visible oscila entre 380 y 740 nanómetros.,ciencia,VERDADERO
+La novela negra o policial tiene una larga tradición en España.,cultura,VERDADERO
+La Primera Enmienda de la Constitución estadounidense protege la libertad de expresión.,politica,VERDADERO
+El laboratorio de IA más avanzado del mundo en 2025 estaba en California.,ciencia,NO_VERIFICABLE
+Alemania es el mayor exportador de bienes de Europa.,economia,VERDADERO
+El motor de búsqueda Google fue fundado por Larry Page y Sergey Brin en 1998.,ciencia,VERDADERO
+El plutonio fue el primer elemento transuránico sintetizado en laboratorio.,ciencia,VERDADERO
+El número exacto de judíos que escaparon del Holocausto con documentos falsos es desconocido.,historia,NO_VERIFICABLE
+George Frideric Handel compuso 'El Mesías'.,cultura,VERDADERO
+La ópera 'La Traviata' fue compuesta por Puccini.,cultura,FALSO
+Andrómeda es la galaxia espiral más cercana a la Vía Láctea.,ciencia,VERDADERO
+Suiza es miembro de la Unión Europea.,politica,FALSO
+Rosa Montero es una de las escritoras españolas más reconocidas internacionalmente.,cultura,VERDADERO
+Las redes neuronales artificiales están inspiradas en el corazón humano.,ciencia,FALSO
+Francisco Pizarro conquistó el Imperio Azteca a partir de 1532.,historia,FALSO
+"China es el país más poblado del mundo (antes de 2023, cuando India tomó el relevo).",politica,VERDADERO
+Goya es conocido por sus retratos de la familia real francesa.,cultura,FALSO
+China es el mayor exportador de materias primas agrícolas.,economia,FALSO
+El microcrédito es un instrumento financiero para personas sin acceso a la banca tradicional.,economia,VERDADERO
+La toma de la Bastilla ocurrió el 14 de julio de 1799.,historia,FALSO
+El sistema SWIFT conecta a los bancos del mundo para transferencias internacionales.,economia,VERDADERO
+La batalla de Waterloo en 1815 supuso la victoria definitiva de Napoleón.,historia,FALSO
+Leo Tolstoi escribió 'Guerra y Paz' y 'Los hermanos Karamázov'.,cultura,FALSO
+El número de delatores que colaboraron con el régimen franquista es imposible de determinar.,historia,NO_VERIFICABLE
+El escritor Camilo José Cela ganó el Premio Nobel de Literatura en 1989.,cultura,VERDADERO
+El Estatuto de Autonomía de Cataluña fue aprobado en 1983.,historia,FALSO
+El primer antibiótico fue descubierto por Louis Pasteur en 1928.,ciencia,FALSO
+El período de incubación de la COVID-19 es de entre 2 y 14 días.,ciencia,VERDADERO
+La guerra de Vietnam terminó en 1980.,historia,FALSO
+Los antibióticos no son efectivos contra infecciones virales.,ciencia,VERDADERO
+La huelga general es una herramienta de presión del movimiento sindical.,economia,VERDADERO
+El estrecho de Gibraltar separa Europa de América.,politica,FALSO
+'Todo sobre mi madre' de Almodóvar ganó el Óscar a la mejor dirección.,cultura,FALSO
+Los fondos de inversión permiten a pequeños inversores acceder a carteras diversificadas.,economia,VERDADERO
+El Greco fue un pintor cretense que trabajó en España en el siglo XVI.,cultura,VERDADERO
+La expansión del universo fue descubierta por Edwin Hubble.,ciencia,VERDADERO
+Los electrones se organizan en orbitales alrededor del núcleo atómico.,ciencia,VERDADERO
+"La tasa de morosidad en el crédito bancario español en 2025 era del 3,4%.",economia,NO_VERIFICABLE
+El ARN mensajero lleva información del ribosoma al ADN.,ciencia,FALSO
+Los atentados del 11M en Madrid (2004) fueron los mayores atentados islamistas en Europa.,historia,VERDADERO
+San Juan de la Cruz fue poeta místico del Siglo de Oro español.,cultura,VERDADERO
+El Imperio Romano de Occidente cayó en el año 376 d.C.,historia,FALSO
+Zinedine Zidane fue entrenador del FC Barcelona antes de retirarse.,deportes,FALSO
+Platón fue discípulo de Sócrates y maestro de Aristóteles.,historia,VERDADERO
+El Museu Picasso de Barcelona es el museo más visitado de España.,cultura,FALSO
+"El BRICS agrupa a Brasil, Rusia, India, China y Sudáfrica.",politica,VERDADERO
+El PIB mide el valor total de las exportaciones de un país.,economia,FALSO
+Cristóbal Colón llegó a América el 12 de octubre de 1502.,historia,FALSO
+India superó a China como el país más poblado del mundo en 2023.,politica,VERDADERO
+El Lazarillo de Tormes fue escrito por Francisco de Quevedo.,cultura,FALSO
+Novak Djokovic ha ganado el mayor número de títulos de Grand Slam con 18.,deportes,FALSO
+La Copa Davis fue fundada en 1930.,deportes,FALSO
+El número exacto de escaños que obtendrá el partido X en las próximas elecciones será de 89.,politica,NO_VERIFICABLE
+Noruega es miembro de la Unión Europea.,politica,FALSO
+Los eurobonos son bonos emitidos en euros por estados de la zona euro.,economia,VERDADERO
+La recaudación de la final de la Copa del Rey de 2025 para la RFEF fue de 5 millones de euros.,deportes,NO_VERIFICABLE
+El número exacto de palabras nuevas incorporadas al Diccionario de la RAE en 2025 fue de 2.345.,cultura,NO_VERIFICABLE
+Vincent van Gogh pintó 'La noche estrellada'.,cultura,VERDADERO
+Martin Luther King pronunció su discurso 'I Have a Dream' en 1968.,historia,FALSO
+El principio de subsidiariedad rige las relaciones entre la UE y los estados miembros.,politica,VERDADERO
+La inteligencia artificial es una rama de la biología que estudia el comportamiento humano.,ciencia,FALSO
+El gasto en propaganda institucional del gobierno español en 2025 superó los 300 millones de euros.,politica,NO_VERIFICABLE
+La conquista de México por Hernán Cortés concluyó en 1519.,historia,FALSO
+"El Índice de Desarrollo Humano combina PIB per cápita, educación y esperanza de vida.",economia,VERDADERO
+La serie española más vista en Netflix en 2025 superó los 100 millones de hogares.,cultura,NO_VERIFICABLE
+El número de satélites artificiales activos en órbita en enero de 2026 superó los 8.000.,ciencia,NO_VERIFICABLE
+Santa Teresa de Jesús fue escritora mística y reformadora del Carmelo.,cultura,VERDADERO
+Las bacterias son organismos procariotas.,ciencia,VERDADERO
+Nelson Mandela fue presidente de Sudáfrica entre 1994 y 1999.,historia,VERDADERO
+"Roma fue fundada, según la tradición, en el año 753 a.C.",historia,VERDADERO
+La insulina regula los niveles de glucosa en sangre.,ciencia,VERDADERO
+La Real Academia Española fue fundada en el siglo XIX.,cultura,FALSO
+La propuesta de reforma del Senado español presentada en 2025 fue rechazada por un solo voto.,politica,NO_VERIFICABLE
+Turquía es miembro de la OTAN pero no de la Unión Europea.,politica,VERDADERO
+España tiene la economía más grande de la Unión Europea.,economia,FALSO
+La economía circular se basa en el principio de producir más y tirar más rápido.,economia,FALSO
+La crisis del Prestige provocó el mayor desastre ecológico en la costa catalana.,historia,FALSO
+"La audiencia del Festival de Eurovisión en España en 2025 fue de exactamente 4,1 millones.",cultura,NO_VERIFICABLE
+El proteccionismo comercial busca proteger la industria nacional de la competencia exterior.,economia,VERDADERO
+Rafael Nadal ha ganado Roland Garros 10 veces.,deportes,FALSO
+La Tierra tiene un radio medio de aproximadamente 12.742 km.,ciencia,FALSO
+El gasto militar de China superó al de Estados Unidos en el primer trimestre de 2026.,politica,NO_VERIFICABLE
+El cobre es un excelente conductor de la electricidad.,ciencia,VERDADERO
+La India obtuvo la independencia del Imperio Británico en 1945.,historia,FALSO
+La Reserva Federal (Fed) es el banco central de Estados Unidos.,economia,VERDADERO
+El sistema de pensiones de capitalización acumula fondos propios del cotizante.,economia,VERDADERO
+El precio del petróleo Brent en enero de 2026 era de exactamente 75 dólares por barril.,economia,NO_VERIFICABLE
+La meiosis produce células con la mitad del número de cromosomas.,ciencia,VERDADERO
+La Convención de Ginebra protege a los civiles en tiempos de guerra.,politica,VERDADERO
+El sistema nervioso central solo está compuesto por el cerebro.,ciencia,FALSO
+Roger Federer ganó 23 títulos de Grand Slam durante su carrera.,deportes,FALSO
+La sinfonía número 9 de Beethoven incluye el 'Himno a la Alegría'.,cultura,VERDADERO
+La ley de Boyle establece que la temperatura y el volumen son inversamente proporcionales.,ciencia,FALSO
+El número exacto de personas ejecutadas durante el Terror de la Revolución Francesa fue de 16.594.,historia,NO_VERIFICABLE
+Fernando Alonso ganó el campeonato mundial de Fórmula 1 en 2005 y 2006.,deportes,VERDADERO
+Karl Marx y Friedrich Engels escribieron el Manifiesto Comunista en 1848.,historia,VERDADERO
+"La gastronomía española incluye platos como la paella, la tortilla y el gazpacho.",cultura,VERDADERO
+La cantidad de ayudas europeas recibidas por España a través del Plan de Recuperación en 2025 fue de 28.000 millones.,economia,NO_VERIFICABLE
+Los glóbulos rojos transportan oxígeno por el cuerpo.,ciencia,VERDADERO
+Los jeroglíficos egipcios se usaron durante más de tres milenios.,historia,VERDADERO
+La Revolución Islámica de Irán ocurrió en 1969.,historia,FALSO
+La vacuna de ARN mensajero contra la COVID-19 fue la primera de su tipo aprobada.,ciencia,VERDADERO
+La serie 'La casa de papel' alcanzó una audiencia global masiva en Netflix.,cultura,VERDADERO
+La Revolución Cultural china fue impulsada por Mao Zedong en los años 60.,historia,VERDADERO
+La conquista de México fue liderada por Francisco Pizarro.,historia,FALSO
+La cumbia es un género musical originario de Colombia.,cultura,VERDADERO
+Zurbarán fue un pintor barroco español contemporáneo de Velázquez.,cultura,VERDADERO
+Canberra es la capital de Australia según la mayoría de turistas que visitan Sídney.,politica,FALSO
+El salario mínimo interprofesional en España en 2026 fue de 1.184 euros mensuales.,economia,NO_VERIFICABLE
+La unificación alemana se completó en 1880 bajo Bismarck.,historia,FALSO
+El US Open 2022 fue el primer Grand Slam de Carlos Alcaraz.,deportes,VERDADERO
+Los Premios Goya son equivalentes españoles de los premios BAFTA.,cultura,FALSO
+La India obtuvo la independencia del Imperio Británico en 1947.,historia,VERDADERO
+Pete Sampras ganó 17 títulos de Grand Slam durante su carrera.,deportes,FALSO
+Etiopía es el segundo país más poblado de África.,politica,VERDADERO
+El Premio Cervantes es otorgado por la Real Academia Española.,cultura,FALSO
+La guerra de los Seis Días en 1967 fue un conflicto entre Israel y países árabes.,historia,VERDADERO
+El aprendizaje automático fue inventado por Alan Turing en la Segunda Guerra Mundial.,ciencia,FALSO
+"El PIB real no ajusta por inflación, el PIB nominal sí lo hace.",economia,FALSO
+El sistema SWIFT fue creado por China para competir con el dólar.,economia,FALSO
+Pedro Almodóvar es un director de teatro español reconocido.,cultura,FALSO
+El sector servicios representa menos del 40% del PIB en los países desarrollados.,economia,FALSO
+El surf fue incluido como deporte olímpico en los Juegos de Tokio 2020.,deportes,VERDADERO
+El Partido Popular y el PSOE han sido los dos principales partidos de España desde la Transición.,politica,VERDADERO
+La criptografía asimétrica usa una clave pública y una privada.,ciencia,VERDADERO
+El hierro tiene símbolo Fe en la tabla periódica.,ciencia,VERDADERO
+La ARCO es la feria internacional de arte contemporáneo que se celebra en Madrid.,cultura,VERDADERO
+La popularidad de la monarquía española entre los menores de 35 años en 2025 era del 38%.,politica,NO_VERIFICABLE
+El golf fue reintroducido en los JJOO en Río 2016 tras una ausencia de 100 años.,deportes,FALSO
+La Fundación Thyssen está en Bilbao.,cultura,FALSO
+La Revolución Mexicana comenzó en 1920.,historia,FALSO
+La Copa América es el torneo de selecciones más reciente del mundo.,deportes,FALSO
+La selección española ganó la Copa Mundial de Fútbol en 2006 en Alemania.,deportes,FALSO
+La invasión de Irak liderada por EE.UU. comenzó en 2003.,historia,VERDADERO
+El museo Guggenheim de Bilbao fue diseñado por Zaha Hadid.,cultura,FALSO
+El número de libros vendidos en España en 2025 fue exactamente de 180 millones.,cultura,NO_VERIFICABLE
+La gastronomía española incluye como plato principal la fondue y el cuscús.,cultura,FALSO
+"El PIB de España creció exactamente un 2,3% en 2025.",politica,NO_VERIFICABLE
+El poder judicial en EE.UU. está encabezado por el Tribunal Supremo con nueve magistrados.,politica,VERDADERO
+Abraham Lincoln fue asesinado en 1870.,historia,FALSO
+"El PIB nominal no ajusta por inflación, el PIB real sí.",economia,VERDADERO
+"El neutrón no tiene carga eléctrica, mientras que el protón tiene carga positiva.",ciencia,VERDADERO
+La sede del Gobierno de España es el Palacio de la Moncloa.,politica,VERDADERO
+El bosón de Higgs fue confirmado experimentalmente en el CERN en 2012.,ciencia,VERDADERO
+La Revolución China llevó a la fundación de la República Popular China en 1945.,historia,FALSO
+La cantidad de oro que los romanos extrajeron de las minas de Las Médulas nunca fue calculada.,historia,NO_VERIFICABLE
+Jorge Luis Borges ganó el Premio Nobel de Literatura.,cultura,FALSO
+El Tribunal Constitucional español fue creado por la Constitución de 1978.,politica,VERDADERO
+Grecia fue el primer país en necesitar un rescate de la Reserva Federal.,politica,FALSO
+España tiene 17 comunidades autónomas.,politica,VERDADERO
+Isabel I de Castilla y Fernando II de Aragón se casaron en 1480.,historia,FALSO
+Isabel I de Castilla y Fernando II de Aragón se casaron en 1469.,historia,VERDADERO
+Rosalía es una artista que fusiona el pop con la música celta.,cultura,FALSO
+La competencia perfecta es el modelo económico más común en el capitalismo real.,economia,FALSO
+El Quijote es considerado la primera novela moderna.,cultura,VERDADERO
+Juana de Arco fue quemada en la hoguera en París en 1431.,historia,FALSO
+Las pulsares son estrellas de neutrones que emiten radiación de forma periódica.,ciencia,VERDADERO
+El tesoro de los Incas permanece oculto en una localización desconocida.,historia,NO_VERIFICABLE
+Argentina ha sufrido varias crisis económicas graves en las últimas décadas.,politica,VERDADERO
+El número de libros publicados en lengua española en 2025 superó los 100.000 títulos.,cultura,NO_VERIFICABLE
+El Banco Central Europeo tiene su sede en Bruselas.,politica,FALSO
+El número de concursos de acreedores presentados en España en 2025 fue de 6.300.,economia,NO_VERIFICABLE
+El PIB no mide la desigualdad ni el bienestar social directamente.,economia,VERDADERO
+Argentina ganó la Copa del Mundo de 2022 derrotando a Francia en penalty en la final del Mundial.,deportes,FALSO
+"La OTAN tiene sede en Bruselas, Bélgica.",politica,VERDADERO
+"La bolsa española subió exactamente un 8,3% en 2025.",economia,NO_VERIFICABLE
+El número exacto de Brigadas Internacionales que combatieron en España entre 1936 y 1939 sigue siendo debatido.,historia,NO_VERIFICABLE
+El cinturón de asteroides se encuentra entre Júpiter y Saturno.,ciencia,FALSO
+La Conferencia de Algeciras de 1906 estableció el protectorado en Marruecos.,historia,VERDADERO
+El número de startups tecnológicas fundadas en España en 2025 superó las 2.000.,economia,NO_VERIFICABLE
+"La velocidad máxima registrada por un futbolista con GPS en un partido de Liga en 2025 fue de 38,4 km/h.",deportes,NO_VERIFICABLE
+Los países en desarrollo tienen un PIB per cápita inferior al de los países desarrollados.,economia,VERDADERO
+El coeficiente de Gini de 1 representa igualdad perfecta.,economia,FALSO
+Los polímeros son moléculas de gran masa molecular formadas por unidades repetitivas.,ciencia,VERDADERO
+La unificación italiana se completó en 1851.,historia,FALSO
+España sufrió una grave crisis económica entre 2008 y 2013.,economia,VERDADERO
+La sala de conciertos con mayor número de actuaciones en España en 2025 fue el WiZink Center.,cultura,NO_VERIFICABLE
+Marco Polo viajó a China en el siglo XIII y escribió sobre sus experiencias.,historia,VERDADERO
+Virginia Woolf fue una escritora y ensayista inglesa pionera del modernismo literario.,cultura,VERDADERO
+Rusia es el país más grande del mundo por superficie.,politica,VERDADERO
+El maratón olímpico tiene una distancia de 40 kilómetros.,deportes,FALSO
+"El Banco Central Europeo tiene su sede en Fráncfort, Alemania.",economia,VERDADERO
+El número exacto de proteínas en el proteoma humano supera las 100.000.,ciencia,NO_VERIFICABLE
+El rover Curiosity aterrizó en Marte en agosto de 2002.,ciencia,FALSO
+El espacio Schengen permite la libre circulación sin controles de pasaporte.,politica,VERDADERO
+La empresa Amazon fue fundada por Jeff Bezos en 1994.,ciencia,VERDADERO
+El museo Guggenheim de Bilbao fue diseñado por Santiago Calatrava.,cultura,FALSO
+El Ibex 35 es el principal índice bursátil de la Bolsa de Madrid.,economia,VERDADERO
+"La editorial más grande de España vendió exactamente 3,5 millones de libros en 2025.",cultura,NO_VERIFICABLE
+El porcentaje de mujeres en el Congreso de los Diputados en 2025 superó el 45%.,politica,NO_VERIFICABLE
+El Monte Kilimanjaro es la montaña más alta del mundo.,politica,FALSO
+España tiene una economía mixta con fuerte presencia del sector público.,economia,VERDADERO
+Wimbledon es el torneo de tenis más antiguo del mundo.,deportes,VERDADERO
+Serena Williams tiene 20 títulos de Grand Slam individuales.,deportes,FALSO
+Moscú es la capital de Rusia.,politica,VERDADERO
+La natalidad en España es una de las más bajas de la Unión Europea.,economia,VERDADERO
+La Constitución española reconoce el castellano como lengua oficial del Estado.,politica,VERDADERO
+La tasa de aprobación del gobierno de coalición español en el primer trimestre de 2026 era del 28%.,politica,NO_VERIFICABLE
+El índice Gini de 0 representa la máxima desigualdad en una sociedad.,economia,FALSO
+La corriente eléctrica se mide en amperios.,ciencia,VERDADERO
+El Consejo de Seguridad de la ONU puede autorizar el uso de la fuerza.,politica,VERDADERO
+La prima de riesgo mide la diferencia de rendimiento entre los bonos de un país y los alemanes.,economia,VERDADERO
+Montesquieu propuso la separación de poderes en su obra 'El espíritu de las leyes'.,historia,VERDADERO
+Los Premios Goya son los galardones del cine español.,cultura,VERDADERO
+Enrique Iglesias es el artista hispano con más éxito en el mercado anglosajón.,cultura,VERDADERO
+La oferta del PSG por un jugador español en enero de 2026 superó los 150 millones de euros.,deportes,NO_VERIFICABLE
+Las bombas atómicas sobre Hiroshima y Nagasaki fueron lanzadas en septiembre de 1945.,historia,FALSO
+El Congreso de los Diputados tiene 400 escaños.,politica,FALSO
+Gandhi lideró el movimiento de independencia de la India mediante la resistencia armada.,historia,FALSO
+El museo Guggenheim de Bilbao fue diseñado por Frank Gehry.,cultura,VERDADERO
+Los imanes tienen siempre dos polos: norte y sur.,ciencia,VERDADERO
+'El Quijote' fue publicado en 1705.,cultura,FALSO
+El baloncesto fue inventado por James Naismith en 1891.,deportes,VERDADERO
+España alcanzó la plena integración en la zona euro el 1 de enero de 1999.,historia,VERDADERO
+El sistema de pensiones de reparto acumula fondos propios individuales del cotizante.,economia,FALSO
+Mario Vargas Llosa es un escritor peruano ganador del Premio Nobel de Literatura en 2010.,cultura,VERDADERO
+El Festival Internacional de Cine de San Sebastián es uno de los más importantes de Europa.,cultura,VERDADERO
+La Ilustración fue un movimiento intelectual del siglo XVIII que promovía la razón.,historia,VERDADERO
+La OPEP fue fundada en Bagdad en 1960.,economia,VERDADERO
+El número exacto de consejeros del gobierno catalán en enero de 2026 era de 14.,politica,NO_VERIFICABLE
+Miguel de Cervantes fue contemporáneo de Molière en el siglo XVII.,cultura,FALSO
+La caída de Constantinopla ocurrió en 1453.,historia,VERDADERO
+El Balón de Oro es otorgado por la revista Sports Illustrated.,deportes,FALSO
+Francisco de Goya fue un pintor italiano del siglo XVIII.,cultura,FALSO
+La temperatura media de los océanos en 2025 fue la más alta jamás registrada.,ciencia,NO_VERIFICABLE
+La reunificación alemana ocurrió el 3 de octubre de 1990.,historia,VERDADERO
+España fue la primera nación en ganar la Eurocopa tres veces.,deportes,FALSO
+Conchita Martínez ganó Wimbledon en 1994.,deportes,VERDADERO
+Ana María Matute fue la primera mujer en ganar el Premio Cervantes en 2010.,cultura,VERDADERO
+El número de entradas vendidas para la gira española de un artista internacional en 2025 fue de 500.000.,cultura,NO_VERIFICABLE
+La Eurocopa de 2024 se celebró en Italia.,deportes,FALSO
+El Consejo de Europa no es una institución de la Unión Europea.,politica,VERDADERO
+El infrarrojo y el ultravioleta son radiaciones no visibles para el ojo humano.,ciencia,VERDADERO
+LeBron James es el segundo máximo anotador histórico de la NBA.,deportes,FALSO
+La empresa que lidera el mercado de procesadores cuánticos en 2025 es difícil de determinar.,ciencia,NO_VERIFICABLE
+El próximo gran avance en física cuántica ocurrirá antes de 2030.,ciencia,NO_VERIFICABLE
+La Segunda Internacional fue una organización de partidos obreros fundada en 1889.,historia,VERDADERO
+La URSS se disolvió en 1991.,historia,VERDADERO
+La OTAN admitió a España como miembro en 1975.,historia,FALSO
+La guerra de Vietnam terminó en 1975.,historia,VERDADERO
+El oxígeno es el elemento más abundante en el universo.,ciencia,FALSO
+El número de estrenos teatrales en España en 2025 superó los 1.000.,cultura,NO_VERIFICABLE
+"Bitcoin fue la primera criptomoneda, creada por Mark Zuckerberg en 2009.",economia,FALSO
+Rusia es el segundo país más grande del mundo por superficie.,politica,FALSO
+El planeta más cercano al Sol es Mercurio.,ciencia,VERDADERO
+'Titanic' ganó 11 premios Óscar en 2001.,cultura,FALSO
+La Operación Overlord fue el nombre en clave de la batalla de Stalingrado.,historia,FALSO
+La estructura del ADN fue elucidada únicamente por Watson y Crick.,ciencia,FALSO
+El US Open se celebra en Nueva York.,deportes,VERDADERO
+Los tipos de cambio flotan libremente entre la mayoría de las grandes divisas.,economia,VERDADERO
+La NBA es la principal liga de baloncesto profesional del mundo.,deportes,VERDADERO
+El Festival de Cine de Málaga es el más antiguo de España.,cultura,FALSO
+El número exacto de transacciones con tarjeta de crédito en España en 2025 superó los 5.000 millones.,economia,NO_VERIFICABLE
+Los rayos X fueron descubiertos por Marie Curie en 1895.,ciencia,FALSO
+Los gladiadores romanos combatían en arenas como el Coliseo.,historia,VERDADERO
+El telescopio espacial James Webb fue lanzado en diciembre de 2021.,ciencia,VERDADERO
+George Orwell escribió '1984' y 'Rebelión en la granja'.,cultura,VERDADERO
+El efecto Doppler explica el cambio de frecuencia de una onda cuando la fuente se mueve.,ciencia,VERDADERO
+Ronaldo Nazário fue considerado el mejor delantero del mundo a finales de los 90.,deportes,VERDADERO
+El Monte Everest es la montaña más alta del mundo.,politica,VERDADERO
+La capital de España es Barcelona.,politica,FALSO
+"Usain Bolt tiene el récord mundial en 100m con 9,48 segundos.",deportes,FALSO
+Charlie Chaplin fue uno de los iconos del cine cómico mudo.,cultura,VERDADERO
+El número exacto de misiones espaciales activas en enero de 2026 era de 230.,ciencia,NO_VERIFICABLE
+La subasta de la obra de arte más cara de 2025 alcanzó los 180 millones de dólares.,cultura,NO_VERIFICABLE
+"La macroeconomía estudia la economía a nivel agregado (país, región, mundo).",economia,VERDADERO
+El número exacto de turistas chinos que visitaron España en 2025 fue de 850.000.,economia,NO_VERIFICABLE
+La Comisión Europea es el órgano ejecutivo que reúne a los líderes nacionales.,politica,FALSO
+El ADN tiene una estructura de doble hélice.,ciencia,VERDADERO
+La primera oferta de un club árabe a un jugador español en 2025 ascendió a 80 millones de euros.,deportes,NO_VERIFICABLE
+La erupción del Vesubio en el año 79 d.C. destruyó la ciudad de Pompeya.,historia,VERDADERO
+Próxima Centauri es la estrella más cercana al Sol.,ciencia,VERDADERO
+El Tratado de Maastricht de 1992 creó formalmente la Unión Europea.,historia,VERDADERO
+Los fotones no tienen masa en reposo.,ciencia,VERDADERO
+El número de espectadores que asistió a la final de la Champions 2025 fue de 72.000.,deportes,NO_VERIFICABLE
+Amazon fue fundada por Mark Zuckerberg en 1994.,ciencia,FALSO
+La bolsa de valores es un mercado donde se negocian acciones de empresas.,economia,VERDADERO
+El síndrome de Down es causado por la trisomía del cromosoma 21.,ciencia,VERDADERO
+El sistema inmune tiene dos componentes: la inmunidad innata y la adaptativa.,ciencia,VERDADERO
+El BRICS es una organización con sede en Moscú.,politica,FALSO
+El surrealismo fue un movimiento artístico y literario del siglo XX.,cultura,VERDADERO
+Los números primos son divisibles por cualquier número impar.,ciencia,FALSO
+Los Acuerdos de Oslo de 1993 fueron un acuerdo de paz entre Israel y Siria.,historia,FALSO
+El cine mudo fue el primer tipo de cine producido en la historia.,cultura,VERDADERO
+El número exacto de trabajadores en ERTE en España en enero de 2026 era de 50.000.,economia,NO_VERIFICABLE
+La balanza por cuenta corriente solo refleja el comercio de bienes materiales.,economia,FALSO
+El Banco Central Europeo controla la política fiscal de la zona euro.,politica,FALSO
+El Banco de Japón ha mantenido tipos de interés muy bajos o negativos durante años.,economia,VERDADERO
+Jackson Pollock fue el principal representante del expresionismo abstracto.,cultura,VERDADERO
+El Premio Planeta es uno de los premios literarios más importantes en español.,cultura,VERDADERO
+El realismo mágico surgió en la literatura europea del siglo XX.,cultura,FALSO
+Wimbledon fue fundado como torneo de tenis en la Era Abierta de 1968.,deportes,FALSO
+El número de galerías de arte que cerraron en Madrid durante 2025 fue de 12.,cultura,NO_VERIFICABLE
+Karl Marx y Friedrich Engels escribieron el Manifiesto Comunista en 1867.,historia,FALSO
+La cantidad exacta de datos generados en Internet en 2025 fue de 328 exabytes.,ciencia,NO_VERIFICABLE
+El agua se congela a 10°C a nivel del mar.,ciencia,FALSO
+La distancia de la Tierra al Sol es de aproximadamente 150 millones de km.,ciencia,VERDADERO
+El número exacto de entradas vendidas para la final de la Champions 2025 fue de 89.412.,deportes,NO_VERIFICABLE
+Martin Luther King pronunció su discurso 'I Have a Dream' en 1963.,historia,VERDADERO
+España es el mayor exportador de automóviles de Europa.,economia,FALSO
+La cantidad exacta de arte robado por los nazis durante la Segunda Guerra Mundial supera las 600.000 obras.,historia,NO_VERIFICABLE
+Los atentados del 11 de septiembre de 2001 mataron a casi 5.000 personas.,historia,FALSO
+La URSS se disolvió en 1989.,historia,FALSO
+El Open de Australia es el primer Grand Slam de cada año.,deportes,VERDADERO
+El Deportivo de La Coruña ganó la Liga española en la temporada 2000-01.,deportes,FALSO
+"El mercado único europeo garantiza la libre circulación de bienes, servicios, capitales y personas.",economia,VERDADERO
+El PIB real mide la producción sin ajustar por cambios en los precios.,economia,FALSO
+La sinfonía número 9 de Beethoven fue compuesta cuando el músico era joven.,cultura,FALSO
+Los Juegos Olímpicos de 2024 se celebraron en Los Ángeles.,deportes,FALSO
+La melatonina es producida por el páncreas para regular el sueño.,ciencia,FALSO
+El número de casos de resistencia antibiótica registrados en Europa en 2025 superó el millón.,ciencia,NO_VERIFICABLE
+La eficiencia exacta de los paneles solares más avanzados comercializados en 2025 era del 29%.,ciencia,NO_VERIFICABLE
+La tasa de aprobación del presidente de EE.UU. entre los jóvenes en enero de 2026 era del 38%.,politica,NO_VERIFICABLE
+La reunión del G20 en 2025 llegó a un acuerdo secreto sobre regulación de IA.,politica,NO_VERIFICABLE
+El PIB (Producto Interior Bruto) mide el valor total de bienes y servicios producidos en un país.,economia,VERDADERO
+El Siglo de Oro español corresponde aproximadamente a los siglos XVI y XVII.,historia,VERDADERO
+Andy Warhol fue el líder del movimiento artístico del pop art.,cultura,VERDADERO
+Antonio Gaudí murió de vejez en su casa de Barcelona en 1935.,cultura,FALSO
+La curva de Phillips muestra una relación inversa entre inflación y desempleo.,economia,VERDADERO
+"La política monetaria la dicta el gobierno, no el banco central.",economia,FALSO
+Las cadenas de suministro globales se vieron interrumpidas durante la pandemia de COVID-19.,economia,VERDADERO
+La fotosíntesis ocurre principalmente en los cloroplastos.,ciencia,VERDADERO
+La NBA fue fundada en 1930.,deportes,FALSO
+Los archivos del KGB contienen documentos sobre operaciones en España durante el franquismo.,historia,NO_VERIFICABLE
+Sudáfrica es la mayor economía del continente africano.,politica,VERDADERO
+El NASDAQ es el mercado donde cotizan principalmente empresas farmacéuticas.,economia,FALSO
+La Constitución española puede ser reformada mediante procedimiento especial.,politica,VERDADERO
+Carl Lewis ganó nueve medallas de oro olímpicas en atletismo.,deportes,VERDADERO
+El plasma es el tercer estado de la materia.,ciencia,FALSO
+"Ottawa es la capital de Canadá, pero Toronto es más grande y más conocida como capital.",politica,FALSO
+La Encyclopédie fue dirigida por Voltaire y Montesquieu.,historia,FALSO
+Pau Gasol ganó dos títulos de la NBA con los Boston Celtics.,deportes,FALSO
+Los pactos de investidura son acuerdos entre partidos para apoyar un candidato a presidente.,politica,VERDADERO
+Octavio Paz fue un poeta mexicano ganador del Premio Nobel de Literatura en 1990.,cultura,VERDADERO
+La zarzuela es un género musical español que combina ópera y teatro hablado.,cultura,VERDADERO
+La película 'Titanic' ganó 11 premios Óscar en 1998.,cultura,VERDADERO
+Los documentos sobre las negociaciones secretas entre Franco y los Aliados en 1944 no son accesibles.,historia,NO_VERIFICABLE
+El Balón de Oro es otorgado por la revista France Football.,deportes,VERDADERO
+La guerra de Yugoslavia se desarrolló en la década de 1990.,historia,VERDADERO
+El club con más ingresos por merchandising en España en 2025 fue el Real Madrid con 350 millones.,deportes,NO_VERIFICABLE
+El microcrédito es un instrumento para grandes empresas sin acceso a la bolsa.,economia,FALSO
+El teorema de Pitágoras establece que a²+b²=c² en todos los triángulos.,ciencia,FALSO
+Saladino reconquistó Jerusalén en 1099.,historia,FALSO
+Sócrates fue condenado a muerte en Atenas en el año 399 a.C.,historia,VERDADERO
+La tasa de deforestación en la Amazonia disminuyó un 30% en 2025 respecto a 2024.,ciencia,NO_VERIFICABLE
+"El Comité Olímpico Internacional tiene su sede en Lausana, Suiza.",deportes,VERDADERO
+Johann Sebastian Bach fue un compositor del período romántico.,cultura,FALSO
+La flamenco es un arte musical y de danza declarado Patrimonio Inmaterial de la Humanidad.,cultura,VERDADERO
+El número de manuscritos árabes destruidos durante la Reconquista española permanece sin cuantificar.,historia,NO_VERIFICABLE
+"La inversión en patrimonio cultural en España en 2025 representó el 0,4% del presupuesto.",cultura,NO_VERIFICABLE
+La epilepsia se caracteriza por episodios recurrentes de actividad eléctrica anormal en el cerebro.,ciencia,VERDADERO
+El monopolio es un mercado donde una sola empresa controla toda la oferta.,economia,VERDADERO
+La especie de árbol más longeva descubierta en 2025 tenía 6.000 años.,ciencia,NO_VERIFICABLE
+Corea del Norte es uno de los países más cerrados y aislados del mundo.,politica,VERDADERO
+Amazon fue la primera empresa en alcanzar 2 billones de dólares de capitalización.,economia,FALSO
+Enrique Iglesias es hijo de Miguel Bosé.,cultura,FALSO
+El sector agroalimentario es una de las principales fuentes de exportación española.,economia,VERDADERO
+El bosón de Higgs fue descubierto en el CERN en 1998.,ciencia,FALSO
+La Sociedad de Naciones consiguió prevenir la Segunda Guerra Mundial.,historia,FALSO
+El museo Thyssen-Bornemisza de Madrid tiene una colección de arte europeo.,cultura,VERDADERO
+El euro fue la primera moneda única en el mundo.,economia,FALSO
+El Museo del Prado fue fundado en 1819 bajo el reinado de Fernando VII.,cultura,VERDADERO
+La tasa de paro en España ha sido históricamente inferior a la media europea.,economia,FALSO
+El Consejo de Estado es el supremo órgano consultivo del Gobierno español.,politica,VERDADERO
+Carlos Alcaraz ganó su primer Grand Slam en Wimbledon 2023.,deportes,FALSO
+"El pentatlón moderno olímpico combina esgrima, natación, equitación, tiro y carrera.",deportes,VERDADERO
+El primer largometraje sonoro fue 'El cantor de jazz' de 1927.,cultura,VERDADERO
+El índice de precios al consumidor (IPC) mide la evolución del coste de la vida.,economia,VERDADERO
+La Unión Africana es la organización continental de los estados africanos.,politica,VERDADERO
+La fórmula E=mc² fue descubierta por Niels Bohr.,ciencia,FALSO
+La velocidad máxima en el Tour de Francia 2025 fue de 63 km/h en descenso.,deportes,NO_VERIFICABLE
+El grafito y el diamante son formas alotrópicas del silicio.,ciencia,FALSO
+El núcleo celular contiene el material genético de la célula.,ciencia,VERDADERO
+El número exacto de empleos creados en el sector tecnológico en España en 2025 fue de 45.000.,economia,NO_VERIFICABLE
+El período de incubación de la COVID-19 es de entre 1 y 3 días.,ciencia,FALSO
+Los Beatles se formaron en Londres a finales de los años 50.,cultura,FALSO
+El número de hipotecas firmadas en España en 2025 fue de 320.000.,economia,NO_VERIFICABLE
+El jugador X rechazó una oferta del Real Madrid por razones personales en 2025.,deportes,NO_VERIFICABLE
+La picaresca fue un género narrativo español del siglo XVI y XVII.,cultura,VERDADERO
+La Expo Universal de Sevilla se celebró en 1992.,historia,VERDADERO
+El Defensor del Pueblo español es un cargo elegido directamente por los ciudadanos.,politica,FALSO
+El petróleo es el recurso energético más comercializado en el mundo.,economia,VERDADERO
+"Calderón de la Barca escribió 'La vida es sueño', una obra cumbre del teatro universal.",cultura,VERDADERO
+El impresionismo surgió en Alemania en el siglo XVIII.,cultura,FALSO
+Julio Cortázar fue un escritor mexicano autor de 'Pedro Páramo'.,cultura,FALSO
+Las partículas con espín semientero se llaman fermiones.,ciencia,VERDADERO
+Lewis Hamilton ganó su primer campeonato de F1 en 2008.,deportes,VERDADERO
+El Manchester United ganó la Champions en 1999 con una remontada ganando 5-0.,deportes,FALSO
+La guerra de los Seis Días de 1967 fue una victoria árabe sobre Israel.,historia,FALSO
+La ASEAN es la asociación de naciones del Sudeste Asiático.,politica,VERDADERO
+"La estructura del ADN fue elucidada por Watson, Crick, Franklin y Wilkins.",ciencia,VERDADERO
+La película 'Todo sobre mi madre' de Almodóvar ganó el Óscar a la mejor película extranjera.,cultura,VERDADERO
+Las encuestas internas del Partido Popular mostraban un 45% de intención de voto en diciembre de 2025.,politica,NO_VERIFICABLE
+"Alejandro Amenábar dirigió 'Mar adentro', que ganó el Óscar a la mejor película de habla no inglesa.",cultura,VERDADERO
+El número de lesionados de larga duración en la Liga española en la temporada 2024-25 fue de 127.,deportes,NO_VERIFICABLE
+Los Beatles se formaron en Liverpool a finales de los años 50.,cultura,VERDADERO
+"España ganó la Eurocopa en 1964, 2008, 2012 y 2024.",deportes,VERDADERO
+"El triatlón olímpico consiste en natación, ciclismo y carrera de 10 km.",deportes,FALSO
+El campo magnético terrestre protege la Tierra del viento solar.,ciencia,VERDADERO
+Los archivos secretos del Vaticano contienen documentos sobre Galileo nunca publicados.,historia,NO_VERIFICABLE
+El porcentaje exacto de PIB que supuso la economía digital en España en 2025 fue del 17%.,economia,NO_VERIFICABLE
+Carlos Alcaraz entrenó durante exactamente 8 horas al día durante su preparación para Roland Garros 2026.,deportes,NO_VERIFICABLE
+El ARN de interferencia puede silenciar la expresión de genes específicos.,ciencia,VERDADERO
+Neptuno es el planeta más lejano del Sistema Solar.,ciencia,VERDADERO
+El Imperio Mongol fue el mayor imperio terrestre de la historia.,historia,VERDADERO
+El número exacto de cómics publicados en España en 2025 fue de 12.000 títulos.,cultura,NO_VERIFICABLE
+"Andrómeda es la galaxia espiral más cercana a la Vía Láctea, situada a 100.000 años luz.",ciencia,FALSO
+La balanza por cuenta corriente refleja el comercio de bienes y servicios con el exterior.,economia,VERDADERO
+Francisco Franco murió en 1973.,historia,FALSO
+"Voltaire, Rousseau y Montesquieu fueron pensadores clave de la Ilustración.",historia,VERDADERO
+Leo Tolstoi escribió 'Guerra y Paz' y 'Ana Karénina'.,cultura,VERDADERO
+La tecnología CRISPR permite editar el genoma con precisión.,ciencia,VERDADERO
+LeBron James es el máximo anotador histórico de la NBA.,deportes,VERDADERO
+Novak Djokovic se convirtió en el primer jugador en ganar cada Grand Slam al menos tres veces.,deportes,VERDADERO
+El idioma español es la primera lengua más hablada del mundo en número de hablantes nativos.,cultura,FALSO
+La deuda estudiantil en EE.UU. supera el billón de dólares.,economia,VERDADERO
+El Tribunal Internacional de Justicia resuelve disputas entre estados.,politica,VERDADERO
+La Reserva Federal fue creada en 1935 para estabilizar el sistema financiero.,economia,FALSO
+Julio Cortázar fue un escritor argentino autor de 'Rayuela'.,cultura,VERDADERO
+El sector agroalimentario es una fuente marginal de las exportaciones españolas.,economia,FALSO
+El presupuesto exacto de la última película de Almodóvar fue de 12 millones de euros.,cultura,NO_VERIFICABLE
+La penicilina fue descubierta por Marie Curie en 1928.,ciencia,FALSO
+Francia es una república semipresidencial.,politica,VERDADERO
+'El Quijote' es considerado la primera obra de ciencia ficción.,cultura,FALSO
+Francisco Pizarro conquistó el Imperio Inca a partir de 1532.,historia,VERDADERO
+El galeón de Manila conectaba América con Asia en la época colonial española.,historia,VERDADERO
+El ribosoma es el orgánulo donde se sintetizan las proteínas.,ciencia,VERDADERO
+El Holocausto resultó en el asesinato de aproximadamente dos millones de judíos.,historia,FALSO
+Ernest Hemingway ganó el Premio Nobel de Literatura en 1954.,cultura,VERDADERO
+El porcentaje exacto de cobertura de vacunación contra la gripe en España en 2025 fue del 54%.,ciencia,NO_VERIFICABLE
+Rafael Nadal ganó el Open de Australia en 2009 y 2022.,deportes,VERDADERO
+El Sistema Solar tiene 9 planetas reconocidos por la UAI.,ciencia,FALSO
+Penélope Cruz ganó el Óscar por su papel en 'Volver'.,cultura,FALSO
+El primer alunizaje tripulado ocurrió el 20 de julio de 1979.,ciencia,FALSO
+Wolfgang Amadeus Mozart comenzó a componer a los cinco años.,cultura,VERDADERO
+Carl Lewis ganó nueve medallas de plata olímpicas en atletismo.,deportes,FALSO
+La Unión Europea tiene competencias exclusivas en política exterior y defensa.,politica,FALSO
+El número exacto de votos nulos en las elecciones generales españolas de 2023 fue de 320.000.,politica,NO_VERIFICABLE
+Las Fallas de Valencia son una fiesta declarada Patrimonio Inmaterial de la UNESCO.,cultura,VERDADERO
+La catedral de Santiago de Compostela fue construida en el siglo XIV.,cultura,FALSO
+La bachata es un género musical originario de la República Dominicana.,cultura,VERDADERO
+"Urano orbita el Sol casi de lado, con una inclinación axial de 98°.",ciencia,VERDADERO
+Arantxa Sánchez Vicario ganó el US Open y Roland Garros en el mismo año.,deportes,FALSO
+Javier Marías fue uno de los escritores españoles más reconocidos internacionalmente.,cultura,VERDADERO
+La guerra de Yugoslavia se saldó sin ninguna intervención internacional.,historia,FALSO
+Plácido Domingo es principalmente conocido como pianista.,cultura,FALSO
+El Festival de Cine de San Sebastián (Zinemaldia) es uno de los más antiguos de Europa.,cultura,VERDADERO
+La curva de Laffer muestra la relación entre los tipos impositivos y la recaudación fiscal.,economia,VERDADERO
+"España ganó la Eurocopa en 1960, 2008 y 2012.",deportes,FALSO
+El trasplante de médula ósea puede curar ciertos tipos de leucemia.,ciencia,VERDADERO
+El IVA (Impuesto sobre el Valor Añadido) es un impuesto al consumo.,economia,VERDADERO
+Roger Federer ganó 20 títulos de Grand Slam durante su carrera.,deportes,VERDADERO
+Martina Navratilova ganó 15 títulos de Grand Slam individuales.,deportes,FALSO
+El número exacto de tarjetas rojas mostradas en la Liga española en 2024-25 fue de 89.,deportes,NO_VERIFICABLE
+El telescopio James Webb fue lanzado desde Cabo Cañaveral en enero de 2022.,ciencia,FALSO
+Francisco de Quevedo fue el fundador del cubismo literario.,cultura,FALSO
+La Revolución cubana triunfó en 1959 con Fidel Castro al frente.,historia,VERDADERO
+La renta básica universal es una propuesta de ingreso incondicional para todos los ciudadanos.,economia,VERDADERO
+El skateboard fue incluido como deporte olímpico en los Juegos de Tokio 2020.,deportes,VERDADERO
+La deuda pública siempre es externa y está en manos de inversores extranjeros.,economia,FALSO
+El precio de la entrada más cara en la temporada de ópera del Liceu de 2025-26 fue de 450 euros.,cultura,NO_VERIFICABLE
+Washington D.C. es la capital de Canadá.,politica,FALSO
+Bob Dylan ganó el Premio Nobel de Química en 2016.,cultura,FALSO
+El porcentaje de jugadores extranjeros en la Liga española en 2025 supera el 60%.,deportes,NO_VERIFICABLE
+Los juicios de Núremberg juzgaron a los líderes nazis tras la Segunda Guerra Mundial.,historia,VERDADERO
+Pedro Almodóvar es uno de los directores de cine españoles más reconocidos internacionalmente.,cultura,VERDADERO
+Simone Biles es conocida principalmente por sus logros en natación sincronizada.,deportes,FALSO
+Cleopatra fue la última gobernante del Egipto ptolemaico.,historia,VERDADERO
+El número de autores españoles publicados en lenguas extranjeras en 2025 superó los 500.,cultura,NO_VERIFICABLE
+Telefónica es una de las mayores operadoras de telecomunicaciones del mundo.,economia,VERDADERO
+El porcentaje exacto de españoles que apoya la monarquía en 2025 es del 47%.,politica,NO_VERIFICABLE
+La ópera 'Carmen' fue compuesta por Verdi.,cultura,FALSO
+Tiger Woods ha ganado 18 títulos de golf major.,deportes,FALSO
+La Luna tarda aproximadamente 365 días en orbitar la Tierra.,ciencia,FALSO
+"Orson Welles dirigió 'Ciudadano Kane', considerada una de las mejores películas de la historia.",cultura,VERDADERO
+"El número de Avogadro es aproximadamente 6,022 × 10¹².",ciencia,FALSO
+El número de patentes relacionadas con IA registradas en 2025 superó el millón.,ciencia,NO_VERIFICABLE
+El Canal de Panamá fue inaugurado en 1914.,historia,VERDADERO
+Julio César escribió 'De Bello Gallico' narrando sus campañas en la Galia.,historia,VERDADERO
+Carlos I de España fue también el rey Luis XIV de Francia.,historia,FALSO
+El Congreso de Viena de 1815 rediseñó el mapa de Europa tras las guerras napoleónicas.,historia,VERDADERO
+Carlos Alcaraz ganó su segundo Grand Slam en Wimbledon 2023.,deportes,VERDADERO
+La facturación total de Amazon en España en 2025 fue de exactamente 5.700 millones de euros.,economia,NO_VERIFICABLE
+Los Juegos Olímpicos modernos fueron inaugurados en Atenas en 1896.,deportes,VERDADERO
+El número exacto de votos que obtuvo el PSOE en las elecciones de 2023 fue de 7.760.970.,politica,NO_VERIFICABLE
+La Copa Davis es la competición de tenis por equipos más importante.,deportes,VERDADERO
+El número exacto de trasplantes de órganos realizados en España en 2025 fue de 5.800.,ciencia,NO_VERIFICABLE
+"La política monetaria la controla el banco central, no el gobierno.",economia,VERDADERO
+Chile tiene la mayor deuda externa de América Latina.,politica,FALSO
+El Museu Picasso de Barcelona alberga una importante colección de obras de juventud del pintor.,cultura,VERDADERO
+La Magna Carta fue firmada en 1215.,historia,VERDADERO
+Argentina ganó la Copa del Mundo de Fútbol de 2022 en Qatar.,deportes,VERDADERO
+El gran salto adelante de Mao causó una hambruna que mató a millones en China.,historia,VERDADERO
+El Muro de Berlín cayó el 9 de noviembre de 1989.,historia,VERDADERO
+La competencia perfecta es un modelo teórico con muchos compradores y vendedores.,economia,VERDADERO
+El rey Felipe VI se casó con Letizia Ortiz en 2004.,historia,VERDADERO
+Ciudadanos fue fundado en Madrid como partido de ámbito nacional.,politica,FALSO
+El porcentaje exacto de energía nuclear en la mezcla energética española en 2025 fue del 20%.,ciencia,NO_VERIFICABLE
+La cantidad de arte precolombino en museos europeos sin restitución supera las 500.000 piezas.,historia,NO_VERIFICABLE
+La producción española seleccionada para los Óscar 2026 fue rechazada en primera ronda.,cultura,NO_VERIFICABLE
+El oro tiene símbolo Au en la tabla periódica.,ciencia,VERDADERO
+El salario exacto de Vinicius Jr. en el Real Madrid en 2025 era de 25 millones de euros netos.,deportes,NO_VERIFICABLE
+La cifra exacta de judíos sefardíes que emigraron a España durante el nazismo es incierta.,historia,NO_VERIFICABLE
+El gran salto adelante de Mao fue un gran éxito económico para China.,historia,FALSO
+Los seres humanos tienen 23 cromosomas en las células somáticas.,ciencia,FALSO
+La Junta Electoral Central supervisa los procesos electorales en España.,politica,VERDADERO
+ARPANET fue desarrollado por la empresa IBM para comunicaciones comerciales.,ciencia,FALSO
+Las vacunas contienen la enfermedad activa para provocar inmunidad.,ciencia,FALSO
+El Tratado de Versalles fue firmado en 1922.,historia,FALSO
+La pensión media en España en 2026 era de exactamente 1.250 euros mensuales.,economia,NO_VERIFICABLE
+El número exacto de variantes del coronavirus detectadas en 2025 fue de 47.,ciencia,NO_VERIFICABLE
+La empresa de apuestas más popular entre los jóvenes españoles en 2025 patrocinaba 12 clubes de Liga.,deportes,NO_VERIFICABLE
+Alemania ganó el Mundial de Fútbol de 2014 derrotando a Brasil 5-0 en la final.,deportes,FALSO
+"Juan Rulfo escribió 'Rayuela', obra maestra de la literatura argentina.",cultura,FALSO
+"La velocidad exacta del avión más rápido del mundo en servicio militar en 2025 era de Mach 3,2.",ciencia,NO_VERIFICABLE
+El cerebro humano tiene aproximadamente 86.000 millones de neuronas.,ciencia,VERDADERO
+Johann Sebastian Bach fue uno de los compositores barrocos más influyentes.,cultura,VERDADERO
+Camilo José Cela fue el primero escritor en lengua española en ganar el Nobel.,cultura,FALSO
+Claude Monet fue el principal exponente del expresionismo alemán.,cultura,FALSO
+Repsol es la mayor empresa petrolera española.,economia,VERDADERO
+La Segunda Guerra Mundial comenzó en 1939 y terminó en 1945.,historia,VERDADERO
+La invasión soviética de Afganistán comenzó en 1979.,historia,VERDADERO
+La audiencia media de España en la clasificación mundialista 2026 fue de 6 millones.,deportes,NO_VERIFICABLE
+La inversión extranjera directa en España en 2025 fue de exactamente 28.000 millones de euros.,economia,NO_VERIFICABLE
+El genocidio de Ruanda ocurrió en 1984.,historia,FALSO
+La temperatura de fusión del hierro es de aproximadamente 1.538°C.,ciencia,VERDADERO
+El número exacto de empresas del Ibex 35 que superaron los 1.000 millones de beneficios en 2025 fue de 12.,economia,NO_VERIFICABLE
+"Novak Djokovic ganó el Óscar del tenis, el Golden Slam completo, en 2021.",deportes,VERDADERO
+El GPS utiliza señales de antenas terrestres para determinar posiciones.,ciencia,FALSO
+El género de anime tiene su origen en Japón.,cultura,VERDADERO
+El lago Victoria es el lago más grande del mundo por superficie.,politica,FALSO
+Zara es la marca de ropa más vendida de Francia.,economia,FALSO
+La diabetes tipo 2 es una enfermedad autoinmune igual que la tipo 1.,ciencia,FALSO
+La Revolución cubana triunfó en 1954 con Fidel Castro al frente.,historia,FALSO
+Napoleón Bonaparte fue exiliado en la isla de Santa Elena.,historia,VERDADERO
+El Código de Hammurabi fue escrito por los romanos.,historia,FALSO
+El IRPF en España es el mismo para todos los contribuyentes.,economia,FALSO
+El expresionismo surgió en Alemania a principios del siglo XX.,cultura,VERDADERO
+"El ADN tiene cuatro bases: adenina, guanina, citosina y valina.",ciencia,FALSO
+El oxígeno representa aproximadamente el 21% de la atmósfera terrestre.,ciencia,VERDADERO
+El jazz es un género musical que surgió en Nueva Orleans a principios del siglo XX.,cultura,VERDADERO
+El Premio Cervantes es el galardón literario más importante en portugués.,cultura,FALSO
+La cifra exacta de inversión pública española en infraestructuras en 2025 fue de 12.000 millones.,economia,NO_VERIFICABLE
+El mercado de carbono asigna un precio a las emisiones de CO₂ para reducirlas.,economia,VERDADERO
+"La popularidad del partido X en España en enero de 2026 era del 34,2%.",politica,NO_VERIFICABLE
+Las criptomonedas son monedas digitales descentralizadas basadas en blockchain.,economia,VERDADERO
+Pete Sampras ganó 10 títulos de Grand Slam durante su carrera.,deportes,FALSO
+El enlace iónico se produce entre un metal y un no metal.,ciencia,VERDADERO
+El número exacto de goles marcados en la Liga española en la temporada 2024-25 fue de 1.024.,deportes,NO_VERIFICABLE
+El FMI tiene su sede en Nueva York.,politica,FALSO
+Las negociaciones entre Juan Carlos I y Suárez para la Transición tuvieron momentos secretos.,historia,NO_VERIFICABLE
+Los mamíferos son de sangre caliente (endotermos).,ciencia,VERDADERO
+La economía colaborativa se basa en compartir recursos entre particulares.,economia,VERDADERO
+El salario de eficiencia es el salario pagado por encima del mercado para aumentar la productividad.,economia,VERDADERO
+Felipe II fue el rey más poderoso del mundo en el siglo XVI.,historia,VERDADERO
+Michael Phelps es el deportista olímpico con más medallas de oro.,deportes,VERDADERO
+La conferencia de Bandung de 1955 dio origen al Movimiento de Países No Alineados.,historia,VERDADERO
+La Revolución Rusa de 1917 derrocó al zar Nicolás II.,historia,VERDADERO
+Gianluigi Buffon es el portero italiano con más partidos como internacional.,deportes,FALSO
+La Magna Carta fue firmada en 1315.,historia,FALSO
+Nadia Comaneci fue la primera gimnasta en obtener un 9 perfecto en los JJOO.,deportes,FALSO
+Pablo Picasso fue un pintor francés cofundador del cubismo.,cultura,FALSO
+El sodio tiene símbolo Na en la tabla periódica.,ciencia,VERDADERO
+El Código de Hammurabi es uno de los conjuntos de leyes más antiguos conocidos.,historia,VERDADERO
+Los BRICS crearon su propio banco central en lugar del FMI.,economia,FALSO
+El palacio de la Alhambra fue declarado Patrimonio de la Humanidad en 1984.,cultura,VERDADERO
+La entropía de un sistema aislado nunca disminuye con el tiempo.,ciencia,VERDADERO
+El concierto más rentable de un artista español en 2025 generó 15 millones de euros.,cultura,NO_VERIFICABLE
+El flamenco tiene sus raíces en la cultura gitana andaluza.,cultura,VERDADERO
+La Sagrada Familia de Barcelona estará completamente terminada en 2033.,cultura,NO_VERIFICABLE
+La velocidad máxima registrada en un saque de tenis en competición fue de 263 km/h.,deportes,NO_VERIFICABLE
+Un año luz es la distancia que recorre el sonido en un año.,ciencia,FALSO
+El primer transistor fue inventado en 1937 en los Laboratorios Bell.,ciencia,FALSO
+La radioactividad fue descubierta por Ernest Rutherford en 1898.,ciencia,FALSO
+El número de muertes relacionadas con la contaminación del aire en 2025 superó los 7 millones.,ciencia,NO_VERIFICABLE
+La Copa del Mundo de Fútbol se celebra cada cuatro años.,deportes,VERDADERO
+El cubismo fue desarrollado por Picasso y Georges Braque.,cultura,VERDADERO
+El Getafe CF es un club de fútbol de la comunidad de Madrid.,deportes,VERDADERO
+El número de solicitudes de asilo registradas en España en 2025 superó las 200.000.,politica,NO_VERIFICABLE
+El Índice de Desarrollo Humano solo mide el PIB per cápita.,economia,FALSO
+Los aranceles son una herramienta de política comercial para proteger sectores nacionales.,economia,VERDADERO
+El helio es un gas noble que no reacciona con casi ningún otro elemento.,ciencia,VERDADERO
+Los seres humanos tienen 46 cromosomas en las células somáticas.,ciencia,VERDADERO
+Michael Schumacher ganó cuatro campeonatos mundiales de Fórmula 1.,deportes,FALSO
+El petróleo fue descubierto como recurso energético en el siglo XIX en México.,economia,FALSO
+La escala Richter mide la intensidad destructiva percibida de los terremotos.,ciencia,FALSO
+El porcentaje de españoles con acceso a la banca digital en 2025 era del 72%.,economia,NO_VERIFICABLE
+Suecia es una monarquía constitucional con un sistema parlamentario.,politica,VERDADERO
+La velocidad de la computadora más rápida del mundo en enero de 2026 era de 2 exaflops.,ciencia,NO_VERIFICABLE
+Carlomagno fue coronado emperador en el año 800 d.C.,historia,VERDADERO
+La erupción del Vesubio en el año 79 a.C. destruyó Pompeya.,historia,FALSO
+El Abierto de Australia se celebra en Melbourne.,deportes,VERDADERO
+La constante de Planck fue descubierta por Einstein en 1905.,ciencia,FALSO
+La OSCE es la organización para la seguridad y cooperación en Europa.,politica,VERDADERO
+El teatro del Siglo de Oro español fue uno de los más prolíficos de Europa.,cultura,VERDADERO
+El sistema bancario de reserva fraccionaria impide a los bancos crear dinero.,economia,FALSO
+Alemania es el mayor importador de bienes de Europa.,economia,FALSO
+Mireia Belmonte es la nadadora española más medallista en Juegos Olímpicos.,deportes,VERDADERO
+La respiración celular usa nitrógeno en lugar de oxígeno para producir ATP.,ciencia,FALSO
+La cantidad de oro robado por los conquistadores españoles en América sigue siendo debatida.,historia,NO_VERIFICABLE
+Plutón fue reclasificado como planeta enano en 1996.,ciencia,FALSO
+España sufrió una burbuja inmobiliaria que estalló con la crisis de 2008.,economia,VERDADERO
+La titulación es una técnica analítica para determinar la concentración de una solución.,ciencia,VERDADERO
+La Segunda Guerra Mundial comenzó en 1941 y terminó en 1945.,historia,FALSO
+El electrón fue descubierto por Ernest Rutherford en 1897.,ciencia,FALSO
+El PIB mide directamente el bienestar y la felicidad de la población.,economia,FALSO
+La Unión Europea fue fundada formalmente con el Tratado de Maastricht en 1993.,politica,VERDADERO
+René Magritte fue un pintor surrealista belga.,cultura,VERDADERO
+La banda sonora de 'El señor de los anillos' fue compuesta por Howard Shore.,cultura,VERDADERO
+William Shakespeare nació en Londres en 1564.,cultura,FALSO
+La revolución Rusa derrocó al zar Alejandro III.,historia,FALSO
+El Imperio Otomano duró desde el siglo XIII hasta 1922.,historia,VERDADERO
+Los hongos son organismos eucariotas distintos de las plantas y los animales.,ciencia,VERDADERO
+El Sistema Solar tiene 8 planetas reconocidos por la Unión Astronómica Internacional.,ciencia,VERDADERO
+La deuda pública se divide en deuda interna y deuda externa.,economia,VERDADERO
+El número exacto de legiones romanas activas en el año 100 d.C. es discutido por los historiadores.,historia,NO_VERIFICABLE
+La Liga de Naciones fue fundada después de la Segunda Guerra Mundial.,historia,FALSO
+El Banco de España es el banco central del país.,economia,VERDADERO
+Los archivos de la STASI sobre operaciones en España durante la Guerra Fría contienen información inédita.,historia,NO_VERIFICABLE
+El Tratado de Utrecht de 1713 cedió Gibraltar a Gran Bretaña.,historia,VERDADERO
+La impresión 3D crea objetos tridimensionales a partir de archivos digitales.,ciencia,VERDADERO
+Brasil es el país más grande de América del Norte.,politica,FALSO
+España tiene un sistema electoral proporcional basado en circunscripciones provinciales.,politica,VERDADERO
+La temperatura máxima en el núcleo de un reactor de fusión en 2025 fue de exactamente 150 millones de grados.,ciencia,NO_VERIFICABLE
+La Paz de Augsburgo de 1555 reconoció el protestantismo en el Sacro Imperio.,historia,VERDADERO
+Los priones son virus con estructura de proteína.,ciencia,FALSO
+El coste exacto de organizar los Juegos Olímpicos de París 2024 fue de 8.800 millones de euros.,deportes,NO_VERIFICABLE
+"El cero absoluto equivale a -173,15°C.",ciencia,FALSO
+El número exacto de kilómetros recorridos por la selección española en el Mundial de 2022 fue de 12.450.,deportes,NO_VERIFICABLE
+El Consejo de Seguridad de la ONU puede vetar resoluciones de la Asamblea General.,politica,FALSO
+La inversión de LaLiga en tecnología VAR durante 2025 fue de exactamente 8 millones de euros.,deportes,NO_VERIFICABLE
+Michael Phelps tiene el récord de los 100 metros lisos en atletismo.,deportes,FALSO
+"El número exacto de visitantes del Museo del Prado en 2025 fue de 3,2 millones.",cultura,NO_VERIFICABLE
+El ministro de finanzas alemán presentó en secreto un plan de deuda común europea en 2025.,politica,NO_VERIFICABLE
+La Guerra de los Treinta Años fue un conflicto europeo del siglo XVII.,historia,VERDADERO
+Ethereum es la primera criptomoneda por capitalización de mercado.,economia,FALSO
+El oxígeno es el elemento más abundante en la corteza terrestre.,ciencia,VERDADERO
+El sistema político estadounidense es tripartidista.,politica,FALSO
+La cantidad de dinero movida en el mercado de fichajes europeo en verano de 2025 fue de 6.200 millones.,deportes,NO_VERIFICABLE
+Los bonos de alto rendimiento (junk bonds) ofrecen mayor rentabilidad a mayor riesgo.,economia,VERDADERO
+El número exacto de espectadores que vio la Eurocopa 2024 en España fue de 14 millones.,deportes,NO_VERIFICABLE
+El primer correo electrónico fue enviado por Ray Tomlinson en 1971.,ciencia,VERDADERO
+El euro fue introducido como moneda física el 1 de enero de 1999.,economia,FALSO
+La guerra de Corea duró de 1948 a 1950.,historia,FALSO
+El número de turistas que visitó España en 2025 superó los 95 millones.,economia,NO_VERIFICABLE
+Colombia forma parte de la OPEP.,politica,FALSO
+El cálculo fue desarrollado independientemente por Newton y Leibniz.,ciencia,VERDADERO
+España ganó la Eurocopa 2024 siendo la primera nación en ganarla cuatro veces.,deportes,VERDADERO
+Las conversaciones bilaterales entre España y Marruecos en 2025 produjeron un memorándum secreto.,politica,NO_VERIFICABLE
+La deflación es el aumento generalizado y sostenido de los precios.,economia,FALSO
+El US Open se juega sobre pista dura en Flushing Meadows.,deportes,VERDADERO
+Cristóbal Colón llegó a América el 12 de octubre de 1492.,historia,VERDADERO
+El Imperio persa aqueménida fue fundado por Ciro el Grande.,historia,VERDADERO
+La temperatura global promedio en 2025 fue la más alta registrada desde 1850.,ciencia,NO_VERIFICABLE
+Roland Garros se celebra sobre tierra batida en París.,deportes,VERDADERO
+La Primera Enmienda de la Constitución de EE.UU. protege el derecho a portar armas.,politica,FALSO
+Lope de Vega fue uno de los autores más prolíficos del Siglo de Oro español.,cultura,VERDADERO
+La relatividad especial fue publicada por Albert Einstein en 1905.,ciencia,VERDADERO
+El Holocausto resultó en el asesinato de aproximadamente seis millones de judíos.,historia,VERDADERO
+El euro es la moneda oficial de la zona euro.,politica,VERDADERO
+El cricket es el segundo deporte más popular del mundo por número de seguidores.,deportes,VERDADERO
+La energía nuclear de fisión libera energía al dividir núcleos pesados.,ciencia,VERDADERO
+El número de países que reconocen a Kosovo como estado independiente supera los 100.,politica,NO_VERIFICABLE
+La moción de censura requiere el apoyo de la mayoría absoluta del Senado.,politica,FALSO
+El Tour de Francia es la vuelta ciclista más prestigiosa del mundo.,deportes,VERDADERO
+"Juan Rulfo escribió 'Pedro Páramo', obra maestra de la literatura mexicana.",cultura,VERDADERO
+Tirso de Molina creó el personaje de Don Juan Tenorio.,cultura,VERDADERO
+Rosalía es una artista española que fusiona el flamenco con estilos contemporáneos.,cultura,VERDADERO
+Linux fue creado por Bill Gates en 1991.,ciencia,FALSO
+El nitrógeno representa aproximadamente el 50% de la atmósfera terrestre.,ciencia,FALSO
+La bossa nova es un género musical brasileño que fusiona samba y jazz.,cultura,VERDADERO
+El número de premios internacionales que recibió el cine español en 2025 superó los 50.,cultura,NO_VERIFICABLE
+Júpiter tiene 2 lunas conocidas.,ciencia,FALSO
+El Renacimiento fue un movimiento cultural y artístico que surgió en Italia.,historia,VERDADERO
+La productividad laboral mide la producción obtenida por unidad de trabajo.,economia,VERDADERO
+Las cotizaciones sociales financian la Seguridad Social española.,economia,VERDADERO
+Repsol es la mayor empresa de telecomunicaciones española.,economia,FALSO
+El Consejo de Seguridad de la ONU tiene siete miembros permanentes.,politica,FALSO
+"James Joyce escribió 'Ulises', considerada una de las novelas más importantes del siglo XX.",cultura,VERDADERO
+El Premio Pritzker es el galardón más prestigioso de la arquitectura mundial.,cultura,VERDADERO
+La Tomatina de Buñol es una fiesta popular española conocida mundialmente.,cultura,VERDADERO
+La Constitución española actual fue aprobada en 1975.,historia,FALSO
+Marte tiene dos lunas: Fobos y Deimos.,ciencia,VERDADERO
+La cifra exacta de españoles que emigraron a América durante el franquismo es imprecisa.,historia,NO_VERIFICABLE
+La selección alemana ganó el Mundial de Fútbol de 2014 en Brasil.,deportes,VERDADERO
+Federico García Lorca fue un poeta y dramaturgo español asesinado en 1936.,cultura,VERDADERO
+El número exacto de canciones compuestas por un artista famoso durante su carrera supera las 1.000.,cultura,NO_VERIFICABLE
+El presupuesto de la película española más cara rodada en 2025 fue de 30 millones de euros.,cultura,NO_VERIFICABLE
+La relatividad general fue publicada por Albert Einstein en 1915.,ciencia,VERDADERO
+Teresa Perales es la deportista española paralímpica con más medallas.,deportes,VERDADERO
+El genocidio armenio fue reconocido internacionalmente como tal por Turquía.,historia,FALSO
+Los Países Bajos es un país monárquico constitucional.,politica,VERDADERO
+Lance Armstrong fue el primer ciclista en ganar el Tour de Francia siete veces.,deportes,FALSO
+El Wanda Metropolitano es el estadio del Atlético de Madrid.,deportes,VERDADERO
+"El número de autónomos en España en enero de 2026 superó los 3,4 millones.",economia,NO_VERIFICABLE
+La toma de la Bastilla ocurrió el 14 de julio de 1789.,historia,VERDADERO
+La película española más vista en 2025 recaudó exactamente 8 millones de euros en taquilla.,cultura,NO_VERIFICABLE
+Carlos Alcaraz ganó su primer Grand Slam en el US Open 2022.,deportes,VERDADERO
+El dumping es una práctica comercial permitida y fomentada por la OMC.,economia,FALSO
+El D-Day (desembarco de Normandía) ocurrió el 6 de junio de 1944.,historia,VERDADERO
+La Mona Lisa fue pintada por Leonardo da Vinci.,cultura,VERDADERO
+El deporte de judo fue incluido por primera vez en los Juegos Olímpicos en Tokio 1964.,deportes,VERDADERO
+El IPC mide la evolución del coste de la vida solo para empresas.,economia,FALSO
+Boris Becker ganó Wimbledon con 17 años en 1985.,deportes,VERDADERO
+El primer alunizaje tripulado ocurrió el 20 de julio de 1969.,ciencia,VERDADERO
+"El primer satélite artificial fue el Explorer 1, lanzado en 1957.",ciencia,FALSO
+Google fue fundado por Larry Page y Bill Gates en 1998.,ciencia,FALSO
+Los rayos X fueron descubiertos por Wilhelm Röntgen en 1895.,ciencia,VERDADERO
+El Tratado de Utrecht de 1713 cedió Ceuta a Gran Bretaña.,historia,FALSO
+El cerebro humano tiene aproximadamente 10.000 millones de neuronas.,ciencia,FALSO
+El Banco de Japón subió los tipos de interés durante la deflación de los 90.,economia,FALSO
+El deporte de judo fue incluido en los Juegos Olímpicos por primera vez en Montreal 1976.,deportes,FALSO
+El Muro de Berlín fue construido en 1961.,historia,VERDADERO
+Nigeria es el país más poblado de Asia.,politica,FALSO
+África es el segundo continente más grande del mundo.,politica,VERDADERO
+La Encyclopédie fue dirigida por Diderot y D'Alembert en el siglo XVIII.,historia,VERDADERO
+El número exacto de inmigrantes que llegaron a España en 2025 fue de 394.000.,politica,NO_VERIFICABLE
+El feudalismo fue el sistema político y económico dominante en la Europa medieval.,historia,VERDADERO
+La vacuna contra la viruela fue desarrollada por Edward Jenner en 1796.,ciencia,VERDADERO
+El Museo del Prado está ubicado en Barcelona.,cultura,FALSO
+El genoma humano contiene aproximadamente 3.000 millones de pares de bases.,ciencia,VERDADERO
+El Escorial fue mandado construir por Carlos III.,cultura,FALSO
+La batalla de Hastings en 1066 fue una victoria normanda sobre los anglosajones.,historia,VERDADERO
+La cantidad exacta de ayudas del ICO distribuidas en España durante 2025 fue de 8.500 millones.,economia,NO_VERIFICABLE
+Los vehículos eléctricos utilizan motores eléctricos en lugar de motores de combustión.,ciencia,VERDADERO
+El Gobierno de España está presidido por el presidente del Gobierno.,politica,VERDADERO
+La ópera 'Carmen' fue compuesta por Georges Bizet.,cultura,VERDADERO
+La fotosíntesis ocurre principalmente en las mitocondrias.,ciencia,FALSO
+Rafael Nadal ganó el US Open en 2019 tras recuperarse de diversas lesiones.,deportes,VERDADERO
+La ley de conservación de la energía establece que la energía no se crea ni se destruye.,ciencia,VERDADERO
+El Sahara es el desierto caliente más grande del mundo.,politica,VERDADERO
+El microprocesador fue inventado por Intel en 1971.,ciencia,VERDADERO
+La Guerra de los Cien Años fue un conflicto entre Francia e Inglaterra.,historia,VERDADERO
+La vacuna contra la viruela fue desarrollada por Louis Pasteur en 1796.,ciencia,FALSO
+El Guernica de Picasso fue pintado en 1937 para denunciar el bombardeo de esa ciudad vasca.,cultura,VERDADERO
+"El efecto Doppler solo aplica a las ondas de luz, no al sonido.",ciencia,FALSO
+Estados Unidos declaró su independencia el 4 de julio de 1776.,historia,VERDADERO
+"La Tierra tarda aproximadamente 365,25 días en orbitar el Sol.",ciencia,VERDADERO
+Los Juegos Olímpicos de verano tienen lugar cada cuatro años.,deportes,VERDADERO
+La tabla periódica fue publicada por Dmitri Mendeléyev en 1869.,ciencia,VERDADERO
+"La audiencia de la Superbowl 2026 en España fue de exactamente 1,2 millones de espectadores.",deportes,NO_VERIFICABLE
+El coste total del fichaje más caro de la historia del fútbol fue de 222 millones de euros.,deportes,NO_VERIFICABLE
+"El número exacto de visitantes a la Sagrada Familia en 2025 fue de 4,5 millones.",cultura,NO_VERIFICABLE
+"En baloncesto, una canasta de triple vale tres puntos.",deportes,VERDADERO
+La unificación italiana se completó en 1871.,historia,VERDADERO
+Valentino Rossi ganó siete campeonatos mundiales de motociclismo.,deportes,FALSO
+Pablo Neruda fue un poeta argentino ganador del Premio Nobel.,cultura,FALSO
+La automatización industrial amenaza algunos empleos pero crea otros nuevos.,economia,VERDADERO
+La Revolución Islámica de Irán ocurrió en 1979.,historia,VERDADERO
+El número de espectadores de la final de la Copa del Rey de 2025 fue de 60.000.,deportes,NO_VERIFICABLE
+El número exacto de diputados de Junts en el Congreso en enero de 2026 era de 7.,politica,NO_VERIFICABLE
+México es la mayor economía de América Latina.,politica,FALSO
+'El padrino' es una película dirigida por Francis Ford Coppola.,cultura,VERDADERO
+Rafael Nadal ha ganado Roland Garros 8 veces.,deportes,FALSO
+El Estatuto de Autonomía de Cataluña fue aprobado en 1979.,historia,VERDADERO
+La sinfonía número 9 de Beethoven incluye el 'Himno a la Alegría' pero fue escrita cuando ya era sordo.,cultura,FALSO
+El número exacto de espectadores que vieron el Festival de Eurovisión en España en 2026 fue de 3 millones.,cultura,NO_VERIFICABLE
+Saturno es conocido por sus anillos prominentes.,ciencia,VERDADERO
+"El Tribunal Internacional de Justicia puede condenar a individuos, no solo a estados.",politica,FALSO
+El artículo 155 de la Constitución nunca fue aplicado antes de 2017.,historia,FALSO
+"Los cinco miembros permanentes del Consejo de Seguridad son EE.UU., Rusia, China, Francia y Reino Unido.",politica,VERDADERO
+La melatonina regula el ciclo sueño-vigilia.,ciencia,VERDADERO
+El silicio es el metal más abundante en la corteza terrestre.,ciencia,FALSO
+La energía solar es producida por fusión nuclear en el núcleo del Sol.,ciencia,VERDADERO
+El Muro de Berlín fue construido en 1951.,historia,FALSO
+El dopaje en el ciclismo afecta actualmente al X% de los corredores profesionales.,deportes,NO_VERIFICABLE
+"Goya es conocido por sus 'Pinturas negras', realizadas en su casa la Quinta del Sordo.",cultura,VERDADERO
+La Agencia EFE es la principal agencia de noticias española.,politica,VERDADERO
+Simón Bolívar lideró la independencia de México.,historia,FALSO
+Los Acuerdos de Oslo de 1993 fueron un intento de paz entre Israel y la OLP.,historia,VERDADERO
+Xavi Hernández y Andrés Iniesta fueron dos de los mejores centrocampistas de su generación.,deportes,VERDADERO
+"El gasto en defensa de España en 2025 representó el 1,3% del PIB.",economia,NO_VERIFICABLE
+La reacción de la fotosíntesis produce glucosa almacenando energía solar.,ciencia,VERDADERO
+El Parlamento Europeo tiene poder de iniciativa legislativa en la UE.,politica,FALSO
+Las grandes tecnológicas (Big Tech) dominan la economía digital mundial.,economia,VERDADERO
+El número de goles de Erling Haaland en la temporada 2024-25 fue de 35.,deportes,NO_VERIFICABLE
+La política de austeridad implica reducción del gasto público para equilibrar el presupuesto.,economia,VERDADERO
+El baloncesto 3x3 fue incluido en los Juegos Olímpicos en Tokio 2020.,deportes,VERDADERO
+El baloncesto fue inventado por el canadiense James Naismith en 1891 en Francia.,deportes,FALSO
+El Tratado de Locarno de 1925 intentó garantizar la paz en Europa.,historia,VERDADERO
+Shakira es una cantante colombiana de fama mundial.,cultura,VERDADERO
+La Sagrada Familia de Barcelona fue diseñada por Ricardo Bofill.,cultura,FALSO
+La película 'Volver' de Almodóvar fue protagonizada por Penélope Cruz.,cultura,VERDADERO
+El director de cine X firmó un contrato con una plataforma de streaming por 50 millones de dólares.,cultura,NO_VERIFICABLE
+El aluminio es el metal más abundante en la corteza terrestre.,ciencia,VERDADERO
+Washington D.C. es la capital de Estados Unidos.,politica,VERDADERO
+Alejandro Sanz es uno de los cantautores españoles más exitosos internacionalmente.,cultura,VERDADERO
+El primer ser humano en el espacio fue Buzz Aldrin en 1961.,ciencia,FALSO
+Adolf Hitler fue canciller de Alemania desde 1930.,historia,FALSO
+El euro fue introducido como moneda física el 1 de enero de 1999.,politica,FALSO
+La temperatura de fusión del hierro es de aproximadamente 538°C.,ciencia,FALSO
+George Frideric Handel compuso 'La flauta mágica'.,cultura,FALSO
+"El porcentaje exacto de ADN no codificante en el genoma humano es del 98,5%.",ciencia,NO_VERIFICABLE
+El Nuevo Trato (New Deal) fue la política económica de Roosevelt para salir de la depresión.,historia,VERDADERO
+Juan Carlos Ferrero ganó Roland Garros en 2001.,deportes,FALSO
+El socialismo utópico fue precursor del marxismo.,historia,VERDADERO
+Israel fue fundado como estado en 1945.,politica,FALSO
+La política fiscal comprende los ingresos y gastos del Estado.,economia,VERDADERO
+"El tipo de interés del BCE en enero de 2026 era del 2,5%.",economia,NO_VERIFICABLE
+El coste de la vivienda es bajo en España en comparación con el resto de Europa.,economia,FALSO
+El Tratado de Lisboa reformó las instituciones de la Unión Europea en 2009.,historia,VERDADERO
+Pretoria es la capital administrativa de Sudáfrica.,politica,VERDADERO
+Brasil ha ganado cinco Copas del Mundo de Fútbol.,deportes,VERDADERO
+"El porcentaje exacto del PIB español invertido en I+D en 2025 fue del 1,4%.",economia,NO_VERIFICABLE
+El riesgo sistémico es el riesgo de colapso del sistema financiero completo.,economia,VERDADERO
+El cubismo fue desarrollado por Picasso y Vincent van Gogh.,cultura,FALSO
+El béisbol es el deporte nacional de los Estados Unidos.,deportes,VERDADERO
+"Rafa Nadal nació en Manacor, Mallorca, en 1986.",deportes,VERDADERO
+El Sol es una estrella de tipo O (supergigante azul).,ciencia,FALSO
+El Museo Reina Sofía de Madrid alberga las Meninas de Velázquez.,cultura,FALSO
+La cantidad real de dinero enviado a España por los exiliados en México durante el franquismo.,historia,NO_VERIFICABLE
+La Biblioteca de Alejandría fue uno de los centros del saber en la Antigüedad.,historia,VERDADERO
+El punto de ebullición del agua a nivel del mar es 100°C.,ciencia,VERDADERO
+Fernando Alonso ganó el campeonato mundial de F1 en 2007 y 2008.,deportes,FALSO
+La descentralización política es una característica del modelo autonómico español.,politica,VERDADERO
+La teoría de la evolución fue propuesta por Gregor Mendel en 1859.,ciencia,FALSO
+ETA fue una organización terrorista vasca activa desde los años 60 hasta 2018.,historia,VERDADERO
+Tokio es la capital de Japón.,politica,VERDADERO
+El barroco fue un estilo artístico dominante en España durante el siglo XVII.,cultura,VERDADERO
+Argentina ha ganado cuatro Copas del Mundo de Fútbol.,deportes,FALSO
+La batalla de Stalingrado fue un punto de inflexión en la Segunda Guerra Mundial.,historia,VERDADERO
+"La Luna tarda aproximadamente 27,3 días en orbitar la Tierra.",ciencia,VERDADERO
+La cantidad de dinero que España obtuvo del Plan Marshall es desconocida por el secreto de sumario.,historia,NO_VERIFICABLE
+El número de nuevos fármacos aprobados por la EMA en 2025 fue de exactamente 67.,ciencia,NO_VERIFICABLE
+Los estatutos de autonomía deben ser aprobados por el Parlamento nacional.,politica,VERDADERO
+"James Joyce escribió 'La odisea', una novela del siglo XX.",cultura,FALSO
+La velocidad del sonido varía según el medio en que se propaga.,ciencia,VERDADERO
+La superconductividad ocurre en materiales a temperaturas muy altas.,ciencia,FALSO
+El número exacto de muertos en el bombardeo de Guernica de 1937 sigue siendo objeto de debate.,historia,NO_VERIFICABLE
+El flamenco fue declarado Patrimonio de la Humanidad por la UNESCO en 2000.,cultura,FALSO
+El Tribunal de Justicia de la UE interpreta el derecho comunitario.,politica,VERDADERO
+La Guerra Fría fue el conflicto ideológico entre EE.UU. y la URSS.,historia,VERDADERO
+El Tribunal Penal Internacional tiene sede en La Haya.,politica,VERDADERO
+El número exacto de obras de Shakespeare escritas en colaboración con otros autores supera las 10.,historia,NO_VERIFICABLE
+La libra esterlina es la moneda de Irlanda.,economia,FALSO
+La Revolución Mexicana comenzó en 1910.,historia,VERDADERO
+Miguel de Cervantes fue contemporáneo de William Shakespeare.,cultura,VERDADERO
+El número de oficinas bancarias cerradas en España en 2025 fue de exactamente 890.,economia,NO_VERIFICABLE
+El ejército romano se organizaba en legiones.,historia,VERDADERO
+Antoine de Saint-Exupéry escribió 'El Principito'.,cultura,VERDADERO
+Michael Phelps es el nadador olímpico con más medallas de plata.,deportes,FALSO
+Las enanas blancas son los remanentes de estrellas de masa media como el Sol.,ciencia,VERDADERO
+El primer microprocesador fue inventado por Microsoft en 1971.,ciencia,FALSO
+El too big to fail describe a entidades financieras tan grandes que el Estado debe rescatarlas.,economia,VERDADERO
+La inflación de los años 70 en Occidente fue provocada por la crisis del euro.,economia,FALSO
+La memoria RAM es no volátil y conserva datos al apagarse el ordenador.,ciencia,FALSO
+El yen japonés es la segunda divisa de reserva más importante del mundo.,economia,FALSO
+Las cotizaciones sociales son un impuesto voluntario para los trabajadores.,economia,FALSO
+La Segunda República española fue proclamada el 14 de abril de 1923.,historia,FALSO
+El protocolo HTTP fue creado por Tim Berners-Lee.,ciencia,VERDADERO
+La ONU tiene 193 estados miembros.,politica,VERDADERO
+El precio de entrada más alto en el Teatro Real de Madrid en 2025 fue de 380 euros.,cultura,NO_VERIFICABLE
+El primer fármaco contra el Alzheimer aprobado en España llegó en 2025.,ciencia,NO_VERIFICABLE
+España derrotó a Inglaterra en la final de la Eurocopa 2024.,deportes,VERDADERO
+Mario Vargas Llosa es un escritor venezolano ganador del Nobel de Literatura.,cultura,FALSO
+El aprendizaje automático (machine learning) permite a las máquinas aprender de datos.,ciencia,VERDADERO
+El número exacto de ensayos clínicos activos sobre cáncer en España en 2025 era de 1.200.,ciencia,NO_VERIFICABLE
+El IRPF es un impuesto indirecto al consumo.,economia,FALSO
+"En España, la circunscripción electoral para las generales es la comunidad autónoma.",politica,FALSO
+Martina Navratilova ganó 18 títulos de Grand Slam en individuales.,deportes,VERDADERO
+"El ciclismo tiene tres grandes vueltas: Tour de Francia, Giro de Italia y Vuelta a España.",deportes,VERDADERO
+"El cero absoluto equivale a -273,15°C.",ciencia,VERDADERO
+La prima de riesgo mide la diferencia entre los bonos de un país y los de EE.UU.,economia,FALSO
+El Río Grande marca parte de la frontera entre México y Estados Unidos.,politica,VERDADERO
+Freddie Mercury fue el vocalista principal de Queen.,cultura,VERDADERO
+El salario mínimo es el salario más alto que los empleadores pueden pagar legalmente.,economia,FALSO
+La muralla de Adriano fue construida en el norte de Britania.,historia,VERDADERO
+El ARN mensajero (ARNm) lleva la información del ADN al ribosoma.,ciencia,VERDADERO
+Francia es una república presidencial.,politica,FALSO
+Boris Becker ganó Wimbledon con 20 años en 1985.,deportes,FALSO
+El secretario general de la ONU es elegido por el Consejo de Seguridad.,politica,FALSO
+La OPEP fue fundada en Viena en 1960.,economia,FALSO
+El modelo de bienestar escandinavo combina altos impuestos con amplios servicios sociales.,economia,VERDADERO
+La selección española ganó el Campeonato Europeo Sub-21 en 2015.,deportes,FALSO
+La Gran Pirámide de Guiza fue construida para el faraón Ramsés II.,historia,FALSO
+Los ingresos del Real Madrid en la temporada 2024-25 superaron los 1.000 millones de euros.,deportes,NO_VERIFICABLE
+La curva de Phillips muestra una relación directa entre inflación y desempleo.,economia,FALSO
+Tiger Woods ha ganado 18 títulos de golf major.,deportes,FALSO
+La crisis del Canal de Suez en 1956 enfrentó a Egipto con Francia y Reino Unido.,historia,VERDADERO
+Penélope Cruz ganó el Óscar por la película 'Todo sobre mi madre'.,cultura,FALSO
+La hipótesis de Riemann es uno de los problemas del milenio sin resolver.,ciencia,VERDADERO
+La Gran Pirámide de Guiza fue construida para la reina Nefertiti.,historia,FALSO
+El Senado es la cámara baja del Parlamento español.,politica,FALSO
+Pekín es la capital de Japón.,politica,FALSO
+Pelé ganó tres Copas del Mundo con Brasil.,deportes,VERDADERO
+El ministro X se reunió en secreto con representantes del gobierno Y en 2025.,politica,NO_VERIFICABLE
+Los British and Irish Lions es una selección combinada de rugby de Gran Bretaña e Irlanda.,deportes,VERDADERO
+El número exacto de víctimas de la represión de la Semana Trágica de Barcelona en 1909 es incierto.,historia,NO_VERIFICABLE
+La productividad total de los factores mide la eficiencia más allá del capital y el trabajo.,economia,VERDADERO
+El secretario general de la ONU es elegido por la Asamblea General.,politica,VERDADERO
+La tasa de paro o desempleo es un indicador clave de la salud de una economía.,economia,VERDADERO
+El Reino Unido abandonó oficialmente la UE el 31 de enero de 2020.,politica,VERDADERO
+El grupo musical Mecano fue uno de los más exitosos de España en los años 80 y 90.,cultura,VERDADERO
+El número exacto de indígenas americanos muertos a consecuencia de la conquista española es debatido.,historia,NO_VERIFICABLE
+La Conferencia de Yalta en 1945 repartió las esferas de influencia de la posguerra.,historia,VERDADERO
+La mitosis produce cuatro células hijas a partir de una célula madre.,ciencia,FALSO
+El yuan chino es la principal moneda de reserva mundial.,economia,FALSO
+LeBron James es el segundo máximo anotador histórico de la NBA.,deportes,FALSO
+El ozono está compuesto por dos átomos de oxígeno (O₂).,ciencia,FALSO
+El carbono tiene número atómico 6.,ciencia,VERDADERO
+"La tasa de inflación subyacente en España en diciembre de 2025 era del 2,1%.",economia,NO_VERIFICABLE
+El número exacto de seguidores en Spotify de Rosalía en enero de 2026 era de 25 millones.,cultura,NO_VERIFICABLE
+El oro se considera un valor refugio en tiempos de incertidumbre económica.,economia,VERDADERO
+Suiza no es miembro de la Unión Europea.,politica,VERDADERO
+Valentino Rossi ganó siete campeonatos mundiales de motociclismo.,deportes,FALSO
+El Banco Central puede expandir la oferta monetaria comprando activos financieros.,economia,VERDADERO
+El número de accidentes de tráfico relacionados con el uso del móvil en España en 2025 fue de 5.400.,ciencia,NO_VERIFICABLE
+Steven Spielberg dirigió 'Schindler's List' y 'E.T.'.,cultura,VERDADERO
+Pekín es la capital de China.,politica,VERDADERO
+Los derivados financieros son instrumentos de bajo riesgo recomendados para principiantes.,economia,FALSO
+China tiene la mayor deuda exterior del mundo.,economia,FALSO
+La insulina es producida por el páncreas y regula los niveles de calcio.,ciencia,FALSO
+La superconductividad ocurre en ciertos materiales a temperaturas muy bajas.,ciencia,VERDADERO
+El principio de subsidiariedad implica que la UE actúa siempre por encima de los estados.,politica,FALSO
+La Gran Depresión comenzó con el crack bursátil de 1929.,historia,VERDADERO
+Los atentados del 11 de septiembre de 2001 mataron a casi 3.000 personas.,historia,VERDADERO
+El petróleo fue descubierto en el siglo XX como recurso energético.,economia,FALSO
+Carlos Alcaraz ganó su primer Grand Slam en Wimbledon 2022.,deportes,FALSO
+Charles Darwin publicó 'El origen de las especies' en 1869.,historia,FALSO
+El sonido viaja a aproximadamente 3.000 m/s en el aire.,ciencia,FALSO
+El estrecho de Gibraltar separa Europa de África.,politica,VERDADERO
+"La velocidad máxima alcanzada por el rover Perseverance en Marte fue de 0,14 km/h.",ciencia,NO_VERIFICABLE
+El Real Madrid ganó catorce Ligas de Campeones entre 1956 y 2024.,deportes,VERDADERO
+El actual rey de España es Juan Carlos I.,politica,FALSO
+Iker Casillas fue portero del Real Madrid y de la selección española.,deportes,VERDADERO
+La radioactividad fue descubierta por Henri Becquerel en 1896.,ciencia,VERDADERO
+La NASA fue fundada en 1958.,historia,VERDADERO
+David Bowie fue uno de los artistas de jazz más innovadores del siglo XX.,cultura,FALSO
+El Senado español tiene 266 senadores.,politica,VERDADERO
+Michael Schumacher ganó su primer campeonato de F1 con Benetton.,deportes,VERDADERO
+Arabia Saudí es el mayor exportador de petróleo del mundo.,politica,VERDADERO
+La OMC regula el transporte internacional.,economia,FALSO
+Los priones son proteínas mal plegadas que causan enfermedades neurodegenerativas.,ciencia,VERDADERO
+El Festival Internacional de Benicàssim es uno de los festivales de música más importantes de España.,cultura,VERDADERO
+El número de municipios españoles que aprobaron mociones contra el gobierno en 2025 superó los 500.,politica,NO_VERIFICABLE
+La guerra hispano-estadounidense de 1898 significó el comienzo del Imperio español.,historia,FALSO
+La presión atmosférica normal es de 10 atmósferas al nivel del mar.,ciencia,FALSO
+George Orwell escribió '1984' y 'Los miserables'.,cultura,FALSO
+El número exacto de especies de insectos descubiertas en 2025 fue de 12.847.,ciencia,NO_VERIFICABLE
+El mar Caspio es el punto más bajo de la superficie terrestre.,politica,FALSO
+Don Quijote de la Mancha fue escrita por Francisco de Quevedo.,cultura,FALSO
+"La ley de Ohm relaciona voltaje, corriente y resistencia.",ciencia,VERDADERO
+"La tasa de paro juvenil en España en el primer trimestre de 2026 era del 27,3%.",politica,NO_VERIFICABLE
+Lance Armstrong fue despojado de sus siete títulos del Tour de Francia.,deportes,VERDADERO
+Las exportaciones e importaciones conforman la balanza comercial de un país.,economia,VERDADERO
+La inflación es el aumento generalizado y sostenido de los precios.,economia,VERDADERO
+William Shakespeare nació en Stratford-upon-Avon en 1564.,cultura,VERDADERO
+Julio César escribió 'De Bello Gallico' sobre sus campañas en Hispania.,historia,FALSO
+El sistema nervioso autónomo controla funciones voluntarias como el movimiento.,ciencia,FALSO
+Los agujeros negros tienen una gravedad tan intensa que ni la luz puede escapar.,ciencia,VERDADERO
+La Constitución española actual fue aprobada en 1978.,historia,VERDADERO
+Andy Murray ganó tres títulos de Grand Slam.,deportes,VERDADERO
+El grupo musical Mecano fue uno de los más exitosos de España en los años 70.,cultura,FALSO
+El arte abstracto no representa objetos reconocibles del mundo real.,cultura,VERDADERO
+Australia es el continente más pequeño del mundo.,politica,VERDADERO
+El mercado de trabajo en España tiene una alta tasa de temporalidad.,economia,VERDADERO
+El Lazarillo de Tormes fue escrito por Lope de Vega.,historia,FALSO
+El VAR (Video Assistant Referee) fue introducido en el fútbol profesional para revisar decisiones arbitrales.,deportes,VERDADERO
+La Conferencia de Yalta en 1943 repartió las esferas de influencia de la posguerra.,historia,FALSO
+Los Alpes separan España de Francia.,politica,FALSO
+La cantidad exacta de dinero que el fútbol europeo generó en 2025 fue de 30.000 millones de euros.,deportes,NO_VERIFICABLE
+La recaudación de las apuestas deportivas en España en 2025 superó los 10.000 millones.,deportes,NO_VERIFICABLE
+La moción de censura es el mecanismo parlamentario para destituir al presidente del Gobierno.,politica,VERDADERO
+La Liga de Naciones fue predecesora de la ONU.,historia,VERDADERO
+La balanza de pagos registra todas las transacciones económicas entre países.,economia,VERDADERO
+El Brexit fue la salida del Reino Unido de la Unión Europea.,politica,VERDADERO
+El movimiento de mayo del 68 fue un período de protestas sociales en España.,historia,FALSO
+Miguel Ángel pintó la Capilla Sixtina entre 1508 y 1512.,historia,VERDADERO
+La Sagrada Familia de Barcelona fue diseñada por Antoni Gaudí.,cultura,VERDADERO
+El Mercosur es un bloque de integración económica sudamericano.,politica,VERDADERO
+El número exacto de museos en España reconocidos por el Ministerio de Cultura en 2025 era de 1.532.,cultura,NO_VERIFICABLE
+Montesquieu propuso la separación de poderes en su obra 'El contrato social'.,historia,FALSO
+El Senado romano fue una institución consultiva en la República romana.,historia,VERDADERO
+La devaluación de una moneda puede impulsar las exportaciones al abaratarlas.,economia,VERDADERO
+El Big Bang es la teoría que explica la extinción de los dinosaurios.,ciencia,FALSO
+El Guernica de Picasso fue pintado en 1947.,cultura,FALSO
+Stanley Kubrick dirigió '2001: Una odisea del espacio' y 'La naranja mecánica'.,cultura,VERDADERO
+Gianluigi Buffon es considerado uno de los mejores porteros de la historia del fútbol.,deportes,VERDADERO
+La abolición de la esclavitud en EE.UU. fue decretada por Lincoln en 1863.,historia,VERDADERO
+El Escorial es un conjunto monumental mandado construir por Felipe II.,cultura,VERDADERO
+La energía solar fotovoltaica convierte la luz solar directamente en electricidad.,ciencia,VERDADERO
+El número exacto de contratos de trabajo registrados en el SEPE en 2025 fue de 18 millones.,economia,NO_VERIFICABLE
+El castellano coexiste en España solo con el catalán y el vascuence.,cultura,FALSO
+"La inversión pública en cultura en España en 2025 representó el 0,9% del presupuesto total.",cultura,NO_VERIFICABLE
+La salsa es un género musical nacido en Nueva York con influencia caribeña.,cultura,VERDADERO
+La Revolución Industrial en Gran Bretaña estuvo impulsada por la máquina de vapor.,historia,VERDADERO
+El yen japonés es la tercera divisa de reserva más importante del mundo.,economia,VERDADERO
+El cinturón de asteroides se encuentra entre Marte y Júpiter.,ciencia,VERDADERO
+Los archivos de los servicios de inteligencia españoles sobre el 23F siguen sin desclasificarse.,historia,NO_VERIFICABLE
+Gengis Kan fundó el Imperio Mongol en el siglo XIII.,historia,VERDADERO
+Isabel Allende es una escritora argentina autora de 'Cien años de soledad'.,cultura,FALSO
+La economía circular busca maximizar la producción y el consumo de recursos.,economia,FALSO
+"La audiencia media de la Liga española en el extranjero en 2025 fue de 3,2 millones por partido.",deportes,NO_VERIFICABLE
+La ley de Boyle establece que presión y volumen de un gas son inversamente proporcionales.,ciencia,VERDADERO
+El laboratorio de biología molecular más avanzado del mundo está en Suiza.,ciencia,NO_VERIFICABLE
+El Teatro Real de Madrid es la principal sala de ópera de España.,cultura,VERDADERO
+España es una república parlamentaria.,politica,FALSO
+La Liga española es una de las tres ligas europeas más prestigiosas junto a la Premier y la Bundesliga.,deportes,VERDADERO
+Los Golden State Warriors ganaron cuatro campeonatos de la NBA entre 2015 y 2022.,deportes,VERDADERO
+La inflación es la disminución generalizada de los precios.,economia,FALSO
+El porcentaje de españoles que fue al cine al menos una vez en 2025 era del 42%.,cultura,NO_VERIFICABLE
+El genoma de la especie más antigua conocida fue secuenciado con éxito en 2025.,ciencia,NO_VERIFICABLE
+El número de medallas de oro obtenidas por España en París 2024 fue de 7.,deportes,NO_VERIFICABLE
+La Revolución Industrial comenzó en Gran Bretaña en el siglo XVIII.,historia,VERDADERO
+El Museo del Prado está ubicado en Madrid.,cultura,VERDADERO
+El Sol es una estrella de tipo G (enana amarilla).,ciencia,VERDADERO
+El Banco Central Europeo controla la política monetaria de la zona euro.,politica,VERDADERO
+Los Juegos Olímpicos de 2024 se celebraron en Los Ángeles.,deportes,FALSO
+Andy Murray ganó cuatro títulos de Grand Slam.,deportes,FALSO
+La densidad del agua es de 1 g/cm³ a 20°C en cualquier condición.,ciencia,FALSO
+El All Blacks de Nueva Zelanda es el equipo de rugby más exitoso del mundo.,deportes,VERDADERO
+Grecia fue el primer país de la UE en necesitar un rescate financiero.,politica,VERDADERO
+El hígado es el órgano interno más grande del cuerpo humano.,ciencia,VERDADERO
+Pau Gasol es considerado el mejor jugador de baloncesto español de la historia.,deportes,VERDADERO
+El coste de la vivienda es uno de los principales problemas para los jóvenes en España.,economia,VERDADERO
+Los documentos secretos sobre el asesinato de Kennedy aún contienen información sin desclasificar.,historia,NO_VERIFICABLE
+El Manchester United ganó la Champions en 1999 ganando 4-0 en la final.,deportes,FALSO
+La energía de un fotón es proporcional a su frecuencia.,ciencia,VERDADERO
+La Revolución Industrial fue impulsada por el carbón y la máquina de vapor.,historia,VERDADERO
+Los cometas son cuerpos compuestos de hielo y roca que orbitan el Sol.,ciencia,VERDADERO
+La guerra de los Boers fue un conflicto en Sudáfrica entre el Imperio Británico y los colonos bóers.,historia,VERDADERO
+La sede de la ONU está en Nueva York.,politica,VERDADERO
+La esclavitud fue abolida en el Imperio Británico en 1833.,historia,VERDADERO
+La tecnología 5G ofrece velocidades de transmisión de datos mucho mayores que el 4G.,ciencia,VERDADERO
+El Real Madrid ofreció 200 millones de euros por un jugador en el mercado de enero de 2026.,deportes,NO_VERIFICABLE
+El número exacto de seguidores de Messi en redes sociales en enero de 2026 era de 530 millones.,deportes,NO_VERIFICABLE
+Brasil es el país más grande de América del Sur.,politica,VERDADERO
+Los isótopos son átomos del mismo elemento con diferente número de neutrones.,ciencia,VERDADERO
+La electronegatividad del flúor es la más alta de todos los elementos.,ciencia,VERDADERO
+Conchita Martínez ganó Wimbledon en 1990.,deportes,FALSO
+Los tipos de interés son fijados por los bancos centrales para controlar la inflación.,economia,VERDADERO
+El Deportivo de La Coruña ganó la Liga española en la temporada 1999-2000.,deportes,VERDADERO
+La Unión Africana tiene su sede en Nairobi.,politica,FALSO
+"El mercado financiero incluye la bolsa, los bonos y los mercados de divisas.",economia,VERDADERO
+Felipe II fue el primer rey de España que gobernó sin residir en España.,historia,FALSO
+El Tratado de Roma de 1957 fundó la Comunidad Económica Europea.,politica,VERDADERO
+Bad Bunny es un artista de reguetón puertorriqueño de fama mundial.,cultura,VERDADERO
+La Primera Guerra Mundial comenzó en 1914 y terminó en 1918.,historia,VERDADERO
+Federico García Lorca fue un novelista español asesinado en 1940.,cultura,FALSO
+El almacenamiento en la nube permite guardar datos en servidores remotos.,ciencia,VERDADERO
+Michael Schumacher ganó cinco campeonatos mundiales de Fórmula 1.,deportes,FALSO
+Lope de Vega escribió 'La vida es sueño'.,cultura,FALSO
+Leonardo da Vinci fue un polímata del Renacimiento italiano.,historia,VERDADERO
+La fuerza de la gravedad disminuye con el cuadrado de la distancia.,ciencia,VERDADERO
+Los eclipses lunares ocurren cuando la Tierra se interpone entre el Sol y la Luna.,ciencia,VERDADERO
+El ADN tiene una estructura de triple hélice.,ciencia,FALSO
+El arquitecto Santiago Calatrava es conocido por sus puentes y estructuras futuristas.,cultura,VERDADERO
+El silicio es el semiconductor más usado en electrónica.,ciencia,VERDADERO
+Juana de Arco fue quemada en la hoguera en Ruán en 1431.,historia,VERDADERO
+La Unión Aduanera es un estadio de integración económica más avanzado que el área de libre comercio.,economia,VERDADERO
+El partido con más votos no siempre obtiene la presidencia del Gobierno en España.,politica,VERDADERO
+La antimateria fue predicha teóricamente por Paul Dirac en 1928.,ciencia,VERDADERO
+La conquista de México por Hernán Cortés concluyó en 1521.,historia,VERDADERO
+La velocidad del sonido en el vacío es de 340 m/s.,ciencia,FALSO
+"La Seguridad Social española cubre pensiones, desempleo y asistencia sanitaria.",economia,VERDADERO
+El dumping es la práctica de vender productos en el extranjero por debajo del precio de coste.,economia,VERDADERO
+El teletrabajo aumentó significativamente durante y tras la pandemia de COVID-19.,economia,VERDADERO
+"El maratón olímpico tiene una distancia de 42,195 kilómetros.",deportes,VERDADERO
+El número exacto de minutos que Modric jugó en la temporada 2024-25 fue de 1.840.,deportes,NO_VERIFICABLE
+El índice S&P 500 agrupa a las 100 mayores empresas de EE.UU.,economia,FALSO
+La tecnología CRISPR permite crear organismos completamente nuevos desde cero.,ciencia,FALSO
+El Canal de Suez fue inaugurado en 1890.,historia,FALSO
+Arantxa Sánchez Vicario fue número uno mundial de tenis.,deportes,VERDADERO
+Las ondas gravitacionales fueron detectadas por primera vez en 2015 por LIGO.,ciencia,VERDADERO
+La cantidad exacta de dinero recaudado por el festival Primavera Sound en 2025 fue de 40 millones.,cultura,NO_VERIFICABLE
+El Balón de Oro es un premio individual al mejor jugador del año.,deportes,VERDADERO
+La Guerra Civil española comenzó en julio de 1936.,historia,VERDADERO
+La radiación electromagnética viaja en el vacío a la velocidad de la luz.,ciencia,VERDADERO
+Andy Warhol fue el líder del expresionismo abstracto.,cultura,FALSO
+El número de investigadores que trabajan en fusión nuclear en el mundo en 2025 superaba los 10.000.,ciencia,NO_VERIFICABLE
+Aldous Huxley escribió 'Un mundo feliz'.,cultura,VERDADERO
+La Comisión Europea tiene el monopolio de la iniciativa legislativa en la UE.,politica,VERDADERO
+El FC Barcelona ganó el Sextete en la temporada 2008-09 bajo Pep Guardiola.,deportes,VERDADERO
+El Congreso de los Diputados es la cámara baja del Parlamento español.,politica,VERDADERO
+El colesterol es una molécula esencial para las membranas celulares.,ciencia,VERDADERO
+Usain Bolt tiene el récord mundial de los 100 metros lisos.,deportes,VERDADERO
+La meiosis produce células con el doble del número de cromosomas.,ciencia,FALSO
+El turismo genera menos del 5% del PIB español.,economia,FALSO
+Los BRICS han creado su propio banco de desarrollo: el Nuevo Banco de Desarrollo.,economia,VERDADERO
+Canadá es el segundo país más grande del mundo por superficie.,politica,VERDADERO
+El estadio Santiago Bernabéu tiene más capacidad que el Camp Nou.,deportes,FALSO
+La fundación de Buenos Aires data de 1580.,historia,VERDADERO
+El Tratado de Versalles fue firmado en 1919.,historia,VERDADERO
+El porcentaje de partidos de la Champions transmitidos en abierto en España en 2025 fue del 15%.,deportes,NO_VERIFICABLE
+El actual rey de España es Felipe VI.,politica,VERDADERO
+El Canal de Panamá fue inaugurado en 1924.,historia,FALSO
+Austria es una república federal alpina miembro de la UE.,politica,VERDADERO
+Calderón de la Barca es el autor de 'Don Álvaro o la fuerza del sino'.,cultura,FALSO
+Velázquez pintó 'La libertad guiando al pueblo'.,cultura,FALSO
+El FC Barcelona y el Real Madrid son los dos clubes más populares de España.,deportes,VERDADERO
+"La deuda exterior española en el primer trimestre de 2026 ascendía exactamente a 2,1 billones de euros.",politica,NO_VERIFICABLE
+La Paz de Augsburgo reconoció el catolicismo como única religión del Imperio.,historia,FALSO
+La zarzuela es un género musical que combina ópera y ballet.,cultura,FALSO
+El turismo es uno de los sectores más importantes de la economía española.,economia,VERDADERO
+El número de artistas españoles presentes en los 100 más escuchados globalmente en Spotify en 2025 era de 8.,cultura,NO_VERIFICABLE
+La OCDE es la organización para la cooperación económica con sede en Moscú.,politica,FALSO
+La abolición de la esclavitud en EE.UU. fue decretada por Washington en 1790.,historia,FALSO
+Marco Polo viajó a China en el siglo XV.,historia,FALSO
+Los Juegos Olímpicos de Barcelona 1992 fueron los primeros celebrados en España.,deportes,VERDADERO
+"El desierto de Gobi está en Asia central, entre China y Mongolia.",politica,VERDADERO
+Roger Federer ganó 18 títulos de Grand Slam durante su carrera.,deportes,FALSO
+La Ley Orgánica es la norma de rango superior tras la Constitución en España.,politica,VERDADERO
+Zinedine Zidane ganó el Balón de Oro y tres Champions como entrenador del Real Madrid.,deportes,VERDADERO
+"El número de oro (phi) es aproximadamente 1,618.",ciencia,VERDADERO
+El hidrógeno es el elemento más abundante en el universo.,ciencia,VERDADERO
+El comercio electrónico ha experimentado un crecimiento exponencial en la última década.,economia,VERDADERO
+La velocidad de la luz en el vacío es aproximadamente 150.000 km/s.,ciencia,FALSO
+La inflación de los años 70 en Occidente fue provocada en gran parte por la crisis del petróleo.,economia,VERDADERO
+Brasilia es la capital de Brasil.,politica,VERDADERO
+"Plácido Domingo, Carreras y Pavarotti formaron el trío de Los Cuatro Tenores.",cultura,FALSO
+Freddie Mercury fue el vocalista principal de los Rolling Stones.,cultura,FALSO
+"Ottawa es la capital de Canadá, no Toronto.",politica,VERDADERO
+Los documentos internos del Vaticano sobre el papel de la Iglesia en la Segunda Guerra Mundial aún no son accesibles.,historia,NO_VERIFICABLE
+La Sociedad de Naciones fracasó en prevenir la Segunda Guerra Mundial.,historia,VERDADERO
+El oxígeno representa aproximadamente el 40% de la atmósfera terrestre.,ciencia,FALSO
+La resistencia eléctrica se mide en ohmios.,ciencia,VERDADERO
+El Real Madrid ganó la Liga de Campeones de la temporada 2021-22.,deportes,VERDADERO
+Serena Williams tiene 23 títulos de Grand Slam individuales.,deportes,VERDADERO
+Pablo Picasso fue un pintor español cofundador del cubismo.,cultura,VERDADERO
+Japón es la tercera mayor economía del mundo por PIB nominal.,politica,VERDADERO
+El realismo mágico es una corriente literaria latinoamericana.,cultura,VERDADERO
+La OTAN activó por primera vez el artículo 5 tras los ataques del 11 de septiembre de 2001.,politica,VERDADERO
+La teoría cuantitativa del dinero relaciona la oferta monetaria con el nivel de precios.,economia,VERDADERO
+La esclavitud fue abolida en el Imperio Británico en 1900.,historia,FALSO
+Chris Froome ganó el Tour de Francia cuatro veces.,deportes,VERDADERO
+Los estatutos de autonomía son aprobados solo por los parlamentos autonómicos.,politica,FALSO
+El ADN fue identificado como portador de información genética en 1953.,ciencia,VERDADERO
+Los Acuerdos de Camp David de 1978 fueron una paz entre Siria e Israel.,historia,FALSO
+La deuda de las empresas no financieras españolas a finales de 2025 ascendía al 85% del PIB.,economia,NO_VERIFICABLE
+La reunión secreta entre el presidente español y el rey marroquí en 2025 cambió las relaciones bilaterales.,politica,NO_VERIFICABLE
+El escritor X afirmó en privado que su mejor novela fue rechazada por 12 editoriales.,cultura,NO_VERIFICABLE
+La crisis financiera de 2008 comenzó en EE.UU. con el colapso del mercado hipotecario.,economia,VERDADERO
+Novak Djokovic se convirtió en el primero en ganar cada Grand Slam al menos dos veces.,deportes,FALSO
+"El número de Avogadro es aproximadamente 6,022 × 10²³.",ciencia,VERDADERO
+El río Amazonas desemboca en el Atlántico a través de Brasil.,politica,VERDADERO
+Roger Federer ganó Wimbledon ocho veces.,deportes,VERDADERO
+Lionel Messi ha ganado el Balón de Oro un número récord de veces.,deportes,VERDADERO
+"El precio exacto del barril de Brent el 1 de enero de 2026 era de 73,4 dólares.",economia,NO_VERIFICABLE
+El Banco Mundial tiene su sede en Ginebra.,economia,FALSO
+El Índice Big Mac es una forma informal de medir la paridad de poder adquisitivo.,economia,VERDADERO
+La ASEAN es la asociación de naciones del Mediterráneo.,politica,FALSO
+La Liga de Campeones de la UEFA es la competición de clubes más prestigiosa de Europa.,deportes,VERDADERO
+Los eclipses solares ocurren cuando la Tierra se interpone entre la Luna y el Sol.,ciencia,FALSO
+La Fundación Miró está en Madrid.,cultura,FALSO
+La privatización transfiere empresas públicas al sector privado.,economia,VERDADERO
+El número de escritores del 98 que colaboraron con el régimen de Primo de Rivera es discutido.,historia,NO_VERIFICABLE
+El índice S&P 500 agrupa a las 500 mayores empresas cotizadas en EE.UU.,economia,VERDADERO
+Lionel Messi firmó un contrato por 50 millones de euros al año en su último club.,deportes,NO_VERIFICABLE
+La economía sumergida o informal no se refleja en las estadísticas oficiales.,economia,VERDADERO
+"Alejandro Magno nació en Pella, Macedonia, en el año 356 a.C.",historia,VERDADERO
+La titulización convierte activos ilíquidos en valores negociables.,economia,VERDADERO
+El coste de restauración de la Sagrada Familia durante 2025 ascendió a 45 millones de euros.,cultura,NO_VERIFICABLE
+"La masa del electrón es aproximadamente 9,11 × 10⁻³¹ kg.",ciencia,VERDADERO
+Salvador Dalí fue un pintor español representante del surrealismo.,cultura,VERDADERO
+Led Zeppelin fue una influyente banda de jazz británica.,cultura,FALSO
+La cifra real de víctimas del bombardeo de Dresde en 1945 sigue siendo objeto de debate.,historia,NO_VERIFICABLE
+"La audiencia media de los premios Goya en 2026 fue de 2,1 millones de espectadores.",cultura,NO_VERIFICABLE
+La batalla de Lepanto fue una derrota española frente al Imperio Otomano.,historia,FALSO
+La Vía Láctea es una galaxia elíptica irregular.,ciencia,FALSO
+Ludwig van Beethoven compuso nueve sinfonías.,cultura,VERDADERO
+El universo tiene aproximadamente 13.800 millones de años.,ciencia,VERDADERO
+Nelson Mandela fue presidente de Sudáfrica entre 1990 y 1995.,historia,FALSO
+El número de exiliados republicanos que murieron en el extranjero sin poder regresar es desconocido.,historia,NO_VERIFICABLE
+"La selección española ganó el Campeonato Europeo Sub-21 en 2011, 2013 y 2019.",deportes,VERDADERO
+La artritis reumatoide es una enfermedad autoinmune.,ciencia,VERDADERO
+"El algoritmo de IA más eficiente para detección de cáncer tiene una precisión del 94,7%.",ciencia,NO_VERIFICABLE
+La constante de Hubble describe la tasa de expansión del universo.,ciencia,VERDADERO
+"Alemania, Francia e Italia son los países más poblados de la UE.",politica,VERDADERO
+La Semana Santa española es reconocida por sus impresionantes procesiones.,cultura,VERDADERO
+John Williams compuso la banda sonora de 'Star Wars' y 'Jurassic Park'.,cultura,VERDADERO
+La picaresca fue un género narrativo de origen francés.,historia,FALSO
+La cantidad exacta de agua potable disponible per cápita en España en 2025 era desconocida.,ciencia,NO_VERIFICABLE
+Los seres humanos tienen 32 dientes en la dentición permanente.,ciencia,VERDADERO
+El ingreso per cápita se calcula multiplicando el PIB por el número de habitantes.,economia,FALSO
+Gabriel García Márquez fue un escritor venezolano ganador del Nobel.,cultura,FALSO
+Tiger Woods ha ganado 15 títulos de golf major.,deportes,VERDADERO
+El movimiento de mayo del 68 fue un período de protestas sociales en Francia.,historia,VERDADERO
+La Declaración de los Derechos del Hombre fue proclamada por Napoleón en 1800.,historia,FALSO
+La OTAN admitió a España como miembro en 1982.,historia,VERDADERO
+El Museo Reina Sofía de Madrid alberga el Guernica de Picasso.,cultura,VERDADERO
+El artículo 5 de la OTAN establece que un ataque a un miembro es un ataque a todos.,politica,VERDADERO
+La selección española de baloncesto nunca ha ganado un campeonato mundial.,deportes,FALSO
+El lago Caspio es el lago más grande del mundo por superficie.,politica,VERDADERO
+La caída de Constantinopla en 1453 puso fin a la Edad Moderna.,historia,FALSO
+El presidente de la Generalitat de Cataluña se reunió con el primer ministro francés en 2025.,politica,NO_VERIFICABLE
+Brasil ha ganado seis Copas del Mundo de Fútbol.,deportes,FALSO
+La Segunda República española fue proclamada el 14 de abril de 1931.,historia,VERDADERO
+El Banco Mundial tiene su sede en Londres.,economia,FALSO
+China superó a EE.UU. como mayor economía del mundo en 2010.,politica,FALSO
+Los ácidos tienen un pH inferior a 7.,ciencia,VERDADERO
+Johan Cruyff fue el máximo goleador histórico del Ajax.,deportes,FALSO
+El Tribunal Constitucional español fue creado en 1975.,politica,FALSO
+Los insectos tienen seis patas.,ciencia,VERDADERO
+La Vía Láctea es una galaxia espiral barrada.,ciencia,VERDADERO
+Johann Sebastian Bach fue un compositor del período clásico.,cultura,FALSO
+El artículo 155 de la Constitución permite la intervención estatal en una comunidad autónoma.,politica,VERDADERO
+"La política fiscal la controla el banco central, no el gobierno.",economia,FALSO
+El plasma es el cuarto estado de la materia.,ciencia,VERDADERO
+El número exacto de publicaciones científicas indexadas en 2025 superó los 5 millones.,ciencia,NO_VERIFICABLE
+Los documentos sobre el papel de España en la red de escape nazi conocida como ODESSA siguen siendo reservados.,historia,NO_VERIFICABLE
+El número de pacientes tratados con terapia génica en España en 2025 fue de 340.,ciencia,NO_VERIFICABLE
+La subasta de fotografías más cara de la historia en España se celebró en 2025.,cultura,NO_VERIFICABLE
+Las elecciones autonómicas y locales en España suelen celebrarse el mismo día.,politica,VERDADERO
+China es el mayor exportador del mundo.,economia,VERDADERO
+El porcentaje de españoles que lee al menos un libro al mes es del 34% según una encuesta de 2025.,cultura,NO_VERIFICABLE
+El Plan Marshall fue financiado por la URSS para reconstruir Europa occidental.,historia,FALSO
+'El ingenioso hidalgo don Quijote de la Mancha' fue publicado en 1605.,cultura,VERDADERO
+El Moto GP tiene la misma historia de éxito española que la Fórmula 1.,deportes,VERDADERO
+La globalización ha aumentado la pobreza extrema en los países en desarrollo.,economia,FALSO
+"Cleopatra hablaba con fluidez nueve idiomas, incluyendo el latín y el etíope.",historia,NO_VERIFICABLE
+Marc Márquez ha ganado ocho campeonatos mundiales de MotoGP.,deportes,VERDADERO
+El Real Madrid ganó la Liga de Campeones en la temporada 2020-21.,deportes,FALSO
+Nigeria es el país más poblado de África.,politica,VERDADERO
+La isla de Groenlandia pertenece a Noruega.,politica,FALSO
+El Tratado de Paz de Westfalia de 1648 terminó con la Guerra de los Treinta Años.,historia,VERDADERO
+Los derivados financieros son instrumentos cuyo valor depende de otro activo.,economia,VERDADERO
+El apartheid en Sudáfrica fue abolido formalmente en 1994.,historia,VERDADERO
+El número de kilómetros recorridos por los ciclistas del Tour de Francia en 2025 fue de 3.498.,deportes,NO_VERIFICABLE
+El coche autónomo usa sensores y algoritmos para conducir sin intervención humana.,ciencia,VERDADERO
+El Tratado de Maastricht de 1992 formalizó la creación de la OTAN.,historia,FALSO
+La ONU fue fundada en 1950.,historia,FALSO
+La guerra de las Malvinas fue un conflicto entre Argentina y Chile en 1982.,historia,FALSO
+El Lazarillo de Tormes es la primera novela picaresca en lengua española.,cultura,VERDADERO
+La teoría de la evolución fue propuesta por Charles Darwin en 1859.,ciencia,VERDADERO
+El número de partidos sin perder del Real Madrid en 2025 antes de su primera derrota fue de 18.,deportes,NO_VERIFICABLE
+La misión Artemis de la NASA aterrizará en el polo sur lunar antes de 2027.,ciencia,NO_VERIFICABLE
+La renta per cápita de España es inferior a la media de los países del G7.,economia,VERDADERO
+Alejandro Magno murió envenenado según las últimas investigaciones forenses.,historia,NO_VERIFICABLE
+El Premio Cervantes es el equivalente al Nobel para las letras en español.,cultura,VERDADERO
+Gabriel García Márquez fue un escritor colombiano ganador del Nobel de Literatura.,cultura,VERDADERO
+El idioma español es la segunda lengua más hablada del mundo por hablantes nativos.,cultura,VERDADERO
+Los virus no tienen estructura celular.,ciencia,VERDADERO
+El envejecimiento de la población es un problema exclusivo de Japón y Alemania.,economia,FALSO
+La nacionalización transfiere empresas privadas al control del Estado.,economia,VERDADERO
+El estadio Camp Nou del FC Barcelona es el más grande de Europa en capacidad.,deportes,VERDADERO
+La tasa de apoyo ciudadano al ingreso mínimo vital en España en 2025 era del 67%.,politica,NO_VERIFICABLE
+Los mercados de futuros permiten comprar o vender un activo a un precio fijado hoy para el futuro.,economia,VERDADERO
+La cantidad exacta de plástico recuperado del Pacífico en 2025 fue de 100 toneladas.,ciencia,NO_VERIFICABLE
+La Revolución de Terciopelo de 1989 fue una transición violenta en Checoslovaquia.,historia,FALSO
+"Los antibióticos deben tomarse hasta que desaparezcan los síntomas, no hasta terminar el tratamiento.",ciencia,FALSO
+El número exacto de partidos de la clasificación mundialista de España para 2026 fue de 10.,deportes,NO_VERIFICABLE
+El desempleo se mide como el porcentaje total de la población sin trabajo.,economia,FALSO
+La lengua española tiene más de 500 millones de hablantes nativos.,cultura,VERDADERO
+Los documentos sobre el papel de Juan March en la financiación del alzamiento no están todos desclasificados.,historia,NO_VERIFICABLE
+Penélope Cruz fue la primera actriz española en ganar un Óscar.,cultura,VERDADERO
+La gravedad en la superficie de la Luna es aproximadamente 1/6 de la terrestre.,ciencia,VERDADERO
+El sistema bancario de reserva fraccionaria impide a los bancos crear dinero.,economia,FALSO
+Elvis Presley es conocido como el 'Rey del Rock and Roll'.,cultura,VERDADERO
+La batalla de Lepanto en 1571 fue una victoria del Imperio Otomano sobre España.,historia,FALSO
+El pH del agua pura es 7 (neutro).,ciencia,VERDADERO
+El mercado de carbono asigna un precio al oxígeno producido por los bosques.,economia,FALSO
+La Real Academia Española (RAE) es la institución oficial que regula el español.,cultura,VERDADERO
+El euro fue introducido como moneda física el 1 de enero de 2002.,economia,VERDADERO
+Nueva Delhi es la capital de India.,politica,VERDADERO
+El nitrógeno representa aproximadamente el 78% de la atmósfera terrestre.,ciencia,VERDADERO
+Marc Anthony es uno de los cantantes de salsa más famosos del mundo.,cultura,VERDADERO
+La economía circular busca reducir residuos reutilizando materiales.,economia,VERDADERO
+El síndrome de Down es causado por la trisomía del cromosoma 18.,ciencia,FALSO
+Tom Brady es el quarterback con más Super Bowls ganados en la historia de la NFL.,deportes,VERDADERO
+Gabriel García Márquez publicó 'Cien años de soledad' en 1967.,cultura,VERDADERO
+Astor Piazzolla fue el músico que renovó el tango con elementos de jazz y música clásica.,cultura,VERDADERO
+El coste exacto de desarrollar la vacuna de ARNm de Moderna fue de 2.500 millones de dólares.,ciencia,NO_VERIFICABLE
+"El tiempo medio de revisión por pares en revistas de física es de exactamente 4,3 meses.",ciencia,NO_VERIFICABLE
+Simón Bolívar lideró la independencia de varios países sudamericanos.,historia,VERDADERO
+La Alhambra de Granada es el monumento más visitado de España.,cultura,VERDADERO
+Portugal es el país más occidental de la Europa continental.,politica,VERDADERO
+La Inquisición española fue establecida en 1478 por los Reyes Católicos.,historia,VERDADERO
+El número exacto de países candidatos a la UE en enero de 2026 era de 9.,politica,NO_VERIFICABLE
+El GPS utiliza señales de satélites para determinar posiciones geográficas.,ciencia,VERDADERO
+"El número de Avogadro es aproximadamente 6,022 × 10¹².",ciencia,FALSO
+La Real Sociedad ganó la Copa del Rey en la temporada 2019-20.,deportes,VERDADERO
+Don Quijote de la Mancha fue escrita por Miguel de Cervantes.,cultura,VERDADERO
+La Premier League inglesa es una de las ligas de fútbol más seguidas del mundo.,deportes,VERDADERO
+"El NAFTA (ahora USMCA) regula el comercio entre EE.UU., Canadá y México.",politica,VERDADERO
+"La antorcha olímpica se enciende en Olimpia, Grecia.",deportes,VERDADERO
+El Big Bang es la teoría cosmológica estándar sobre el origen del universo.,ciencia,VERDADERO
+El salario mínimo es el salario legal más bajo que un empleador puede pagar.,economia,VERDADERO
+Cristiano Ronaldo ha ganado cinco Balones de Oro.,deportes,VERDADERO
+La OCDE es la organización para la cooperación y el desarrollo económico.,politica,VERDADERO
+El río más largo del mundo es el Amazonas.,politica,FALSO
+La Reserva Federal fue creada en 1913 para estabilizar el sistema financiero de EE.UU.,economia,VERDADERO
+La Luna causa las mareas en la Tierra mediante su temperatura superficial.,ciencia,FALSO
+Novak Djokovic ha ganado el mayor número de títulos de Grand Slam.,deportes,VERDADERO
+Ceuta y Melilla son ciudades autónomas españolas en el norte de África.,politica,VERDADERO
+Corea del Sur es una de las principales economías asiáticas.,politica,VERDADERO
+El índice Gini mide la desigualdad económica en una sociedad.,economia,VERDADERO
+Ethereum es la segunda criptomoneda por capitalización de mercado tras Bitcoin.,economia,VERDADERO
+La unificación alemana se completó en 1871 bajo Bismarck.,historia,VERDADERO
+Los eurobonos son propuestas de deuda compartida entre los países de la zona euro.,economia,VERDADERO
+Franz Kafka escribió 'La metamorfosis' y 'El extranjero'.,cultura,FALSO
+La deuda pública se expresa generalmente como porcentaje del PIB.,economia,VERDADERO
+La célula fue descrita por primera vez por Galileo Galilei.,ciencia,FALSO
+La batalla de Midway fue una victoria japonesa en el Pacífico.,historia,FALSO
+"Zara es la marca insignia de Inditex, el mayor grupo de moda del mundo.",economia,VERDADERO
+La Vuelta Ciclista a España es una de las grandes competiciones del ciclismo mundial.,deportes,VERDADERO
+Los atentados del 11M en Madrid ocurrieron en 2006.,historia,FALSO
+La Reconquista española concluyó en 1492 con la toma de Sevilla.,historia,FALSO
+La Reserva Federal es el banco central de la Unión Europea.,economia,FALSO
+Las islas Canarias forman una comunidad autónoma francesa.,politica,FALSO
+Gandhi lideró el movimiento de independencia de la India mediante la no violencia.,historia,VERDADERO
+"Bitcoin fue la primera criptomoneda, creada en 2009.",economia,VERDADERO
+La ONU fue fundada en 1945.,historia,VERDADERO
+Vox es un partido político de derecha radical español fundado en 2013.,politica,VERDADERO
+Carlomagno fue coronado emperador en el año 900 d.C.,historia,FALSO
+"La temperatura media global en 2025 fue exactamente 1,5°C superior a la era preindustrial.",ciencia,NO_VERIFICABLE
+El coeficiente de Gini de 0 representa igualdad perfecta y 1 desigualdad total.,economia,VERDADERO
+El láser fue inventado en 1940 por Albert Einstein.,ciencia,FALSO
+El genocidio armenio ocurrió entre 1915 y 1923 durante el Imperio Otomano.,historia,VERDADERO
+El Tribunal Supremo es el órgano jurisdiccional superior en España.,politica,VERDADERO
+El PIB de España representa aproximadamente el 10% del PIB de la Unión Europea.,economia,VERDADERO
+Julio César fue asesinado en los Idus de Marzo del año 44 a.C.,historia,VERDADERO
+"El número pi es aproximadamente 3,14159.",ciencia,VERDADERO
+La Hansa fue una liga comercial de ciudades del norte de Europa.,historia,VERDADERO
+El archipiélago de Indonesia comprende más de 17.000 islas.,politica,VERDADERO
+Steffi Graf ganó el Golden Slam en 1987.,deportes,FALSO
+La tabla periódica fue publicada por Isaac Newton en 1869.,ciencia,FALSO
+Antonio Gaudí murió atropellado por un tranvía en Barcelona en 1926.,cultura,VERDADERO
+El Senado es la cámara alta del Parlamento español.,politica,VERDADERO
+La NASA fue fundada en 1945.,historia,FALSO
+Turquía es miembro pleno de la Unión Europea.,politica,FALSO
+El tango es un género musical y de danza originario de Argentina y Uruguay.,cultura,VERDADERO
+El dólar estadounidense es la principal moneda de reserva mundial.,economia,VERDADERO
+La Luna causa las mareas en la Tierra mediante su atracción gravitacional.,ciencia,VERDADERO
+La Internacional Comunista fue fundada por Stalin en 1919.,historia,FALSO
+El diario personal de Cristóbal Colón fue parcialmente falsificado.,historia,NO_VERIFICABLE
+El número de penaltis transformados en la Liga española en 2024-25 fue de 147.,deportes,NO_VERIFICABLE
+Python es un lenguaje de programación de alto nivel creado por Guido van Rossum.,ciencia,VERDADERO
+La Mona Lisa fue pintada por Miguel Ángel.,cultura,FALSO
+Los caballeros templarios fueron una orden militar religiosa fundada en 1119.,historia,VERDADERO
+La cantidad de arte árabe destruido durante la Reconquista española es imposible de cuantificar.,historia,NO_VERIFICABLE
+La capacidad exacta del mayor parque solar instalado en España en 2025 fue de 590 MW.,ciencia,NO_VERIFICABLE
+"El triatlón olímpico consiste en natación, ciclismo y carrera.",deportes,VERDADERO
+El Banco Santander tiene su sede en Londres.,economia,FALSO
+La productividad española es superior a la alemana y francesa.,economia,FALSO
+La escalada deportiva fue incluida en los Juegos Olímpicos en Tokio 2020.,deportes,VERDADERO
+El oligopolio es un mercado controlado por una sola empresa.,economia,FALSO
+El Senado español tiene 200 senadores.,politica,FALSO
+La ley de conservación de la energía establece que la energía se destruye en el proceso de trabajo.,ciencia,FALSO
+Simone Biles es considerada la mejor gimnasta de la historia.,deportes,VERDADERO
+Los transistores son los componentes básicos de los circuitos integrados modernos.,ciencia,VERDADERO
+El tiempo medio de respuesta del cerebro humano a estímulos visuales varía según la dieta.,ciencia,NO_VERIFICABLE
+El Estatuto de Autonomía del País Vasco fue aprobado en 1979.,historia,VERDADERO
+La productividad total de los factores mide la eficiencia del conjunto de una economía.,economia,VERDADERO
+El telescopio James Webb fue lanzado en diciembre de 2011.,ciencia,FALSO
+Las fintech son empresas tradicionales que adoptan tecnología.,economia,FALSO
+"La economía española está basada principalmente en los servicios, la industria y el turismo.",economia,VERDADERO
+El número de víctimas de la represión franquista en España sigue siendo objeto de investigación histórica.,historia,NO_VERIFICABLE
+La globalización ha reducido la pobreza extrema en muchos países en desarrollo.,economia,VERDADERO
+Steffi Graf fue la primera persona en ganar el Golden Slam en 1988.,deportes,VERDADERO
+El Tribunal Supremo de EE.UU. tiene doce magistrados.,politica,FALSO
+La cifra exacta de víctimas de la Peste Negra en Europa entre 1347 y 1351 fue de 25 millones.,historia,NO_VERIFICABLE
+El Partenón fue dedicado al dios Zeus.,historia,FALSO
+El Palacio Real de Madrid es la residencia habitual de Felipe VI.,cultura,FALSO
+Beethoven compuso la Quinta Sinfonía cuando ya era completamente sordo.,cultura,FALSO
+Michael Schumacher ganó siete campeonatos mundiales de Fórmula 1.,deportes,VERDADERO
+Steffi Graf ganó el Golden Slam (los 4 Grand Slams + el oro olímpico) en 1988.,deportes,VERDADERO
+La velocidad de la luz en el vacío es aproximadamente 300.000 km/s.,ciencia,VERDADERO
+El ARN de interferencia amplifica la expresión de genes específicos.,ciencia,FALSO
+Arturo Pérez-Reverte es autor de la saga del Capitán Alatriste.,cultura,VERDADERO
+El fútbol sala o fútbol 5 es una modalidad muy popular en España.,deportes,VERDADERO
+La Guerra Civil española comenzó en julio de 1939.,historia,FALSO
+El virreinato del Perú fue el más rico de los dominios españoles por su comercio.,historia,FALSO
+La Revolución de Terciopelo de 1989 fue una transición pacífica en Checoslovaquia.,historia,VERDADERO
+Los fondos de pensiones invierten exclusivamente en deuda pública.,economia,FALSO
+Wimbledon fue el primer torneo de tenis en inaugurarse en la Era Abierta.,deportes,FALSO
+El desempleo se mide como el porcentaje de la población activa que no tiene trabajo.,economia,VERDADERO
+El mercado único europeo garantiza solo la libre circulación de bienes.,economia,FALSO
+El rey Juan Carlos I abdicó en 2014 en favor de su hijo Felipe VI.,historia,VERDADERO
+Virginia Woolf fue una escritora española pionera del modernismo.,cultura,FALSO
+El Manchester United ganó la Champions League en 1999 remontando en el último minuto.,deportes,VERDADERO
+El microcrédito es un instrumento financiero exclusivo de los grandes bancos.,economia,FALSO
+La Formula E tiene más de diez temporadas completadas.,deportes,VERDADERO
+Manuel Vázquez Montalbán fue creador del detective Pepe Carvalho.,cultura,VERDADERO
+Camilo José Cela ganó el Premio Nobel de Literatura en 1999.,cultura,FALSO
+Los Juegos Olímpicos de invierno también se celebran cada cuatro años.,deportes,VERDADERO
+"El ADN tiene 4 bases: adenina, guanina, citosina y uracilo.",ciencia,FALSO
+Johan Cruyff fue el jugador más influyente en la historia del Ajax y el Barcelona.,deportes,VERDADERO
+La novela ganadora del Premio Planeta en 2025 se vendió en más de 30 países.,cultura,NO_VERIFICABLE
+Franz Kafka nació en Viena en 1883.,cultura,FALSO
+Tirso de Molina escribió 'El alcalde de Zalamea'.,cultura,FALSO
+Estados Unidos es la mayor economía del mundo por PIB según el criterio de paridad de poder adquisitivo.,politica,FALSO
+El avance más significativo en computación cuántica en 2025 fue logrado por una empresa china.,ciencia,NO_VERIFICABLE
+Novak Djokovic ha ganado el mayor número de títulos de Grand Slam con 15.,deportes,FALSO
+El sistema nervioso autónomo controla funciones involuntarias como el ritmo cardíaco.,ciencia,VERDADERO
+Los bonos del Estado son instrumentos de deuda emitidos por los gobiernos.,economia,VERDADERO
+El impresionismo surgió en Francia en la segunda mitad del siglo XIX.,cultura,VERDADERO
+España es una monarquía parlamentaria.,politica,VERDADERO
+La Eurocopa de 2024 se celebró en Francia.,deportes,FALSO
+La tecnología 5G opera a las mismas frecuencias que el 4G pero con más antenas.,ciencia,FALSO
+El blockchain fue creado por Facebook para gestionar transacciones digitales.,ciencia,FALSO
+La presión atmosférica estándar a nivel del mar es de 1 atmósfera (101.325 Pa).,ciencia,VERDADERO
+Arantxa Sánchez Vicario ganó cuatro títulos de Grand Slam.,deportes,FALSO
+"Alejandro Amenábar dirigió 'Volver', que ganó el Óscar.",cultura,FALSO
+"La Unión Europea tiene competencias en comercio, medio ambiente y agricultura.",politica,VERDADERO
+El efecto riqueza es el impacto de la pérdida de empleos sobre el consumo.,economia,FALSO
+La vacuna experimental contra el VIH probada en 2025 mostró eficacia en el 60% de los casos.,ciencia,NO_VERIFICABLE
+La comisión secreta de la UE sobre vigilancia digital aprobó una directiva en enero de 2026.,politica,NO_VERIFICABLE
+Los Golden State Warriors ganaron seis campeonatos de la NBA entre 2015 y 2022.,deportes,FALSO
+El universo tiene aproximadamente 4.500 millones de años.,ciencia,FALSO
+El escándalo Watergate provocó la dimisión del presidente Carter en 1974.,historia,FALSO
+El oligopolio es un mercado dominado por pocas empresas.,economia,VERDADERO
+El salario mínimo es el salario legal más alto permitido por la ley.,economia,FALSO
+Los Premios Óscar son entregados por la Academia de Artes y Ciencias Cinematográficas.,cultura,VERDADERO
+El libre comercio promueve el intercambio sin aranceles ni barreras.,economia,VERDADERO
+La tasa de abstención en las elecciones autonómicas de 2025 en alguna región superó el 45%.,politica,NO_VERIFICABLE
+El Coliseo de Roma fue construido durante el reinado de la dinastía Flavia.,historia,VERDADERO
+"El primer satélite artificial fue el Sputnik 1, lanzado en 1957.",ciencia,VERDADERO
+The Rolling Stones es una banda de rock formada en Nueva York en 1962.,cultura,FALSO
+La escritura cuneiforme fue desarrollada por los egipcios.,historia,FALSO
+El número exacto de inmigrantes irregulares que cruzaron el Mediterráneo en 2025 fue de 190.000.,politica,NO_VERIFICABLE
+La OPEP fue fundada en París en 1960.,economia,FALSO
+Antoine de Saint-Exupéry escribió 'Alicia en el País de las Maravillas'.,cultura,FALSO
+La penicilina fue descubierta por Alexander Fleming en 1928.,ciencia,VERDADERO
+La NHL es la liga de hockey sobre hielo profesional más importante de Norteamérica.,deportes,VERDADERO
+La trampa de liquidez ocurre cuando los tipos de interés superan el 10%.,economia,FALSO
+Serena Williams tiene 15 títulos de Grand Slam individuales.,deportes,FALSO
+La catedral de Burgos es una de las mejores muestras del gótico en España.,cultura,VERDADERO
+Las negociaciones de adhesión de Ucrania a la UE se aceleraron en 2025.,politica,NO_VERIFICABLE
+La sede de la ONU está en Washington D.C.,politica,FALSO
+El Premio Cervantes es el galardón literario más importante en español.,cultura,VERDADERO
+Pete Sampras ganó 14 títulos de Grand Slam durante su carrera.,deportes,VERDADERO
+El escritor más vendido en España en 2025 vendió exactamente 800.000 ejemplares de su última novela.,cultura,NO_VERIFICABLE
+Los mercados de futuros obligan a comprar o vender un activo a un precio fijado.,economia,FALSO
+La Copa del Mundo de rugby la organiza World Rugby cada cuatro años.,deportes,VERDADERO
+"Cervantes, Shakespeare y el Inca Garcilaso murieron el mismo año, 1616.",cultura,VERDADERO
+La capital de España es Madrid.,politica,VERDADERO
+La cantidad exacta de oro acumulada en el Imperio Azteca antes de la conquista superaba las 1.000 toneladas.,historia,NO_VERIFICABLE
+La mitocondria es el orgánulo responsable de la respiración celular.,ciencia,VERDADERO
+El lehendakari es el jefe del gobierno vasco.,politica,VERDADERO
+El porcentaje de películas españolas en la cartelera española en 2025 fue del 18%.,cultura,NO_VERIFICABLE
+Juan Carlos Ferrero ganó Roland Garros en 2003.,deportes,VERDADERO
+La ópera 'La Traviata' fue compuesta por Giuseppe Verdi.,cultura,VERDADERO
+El NASDAQ es el mercado bursátil donde cotizan las principales tecnológicas de EE.UU.,economia,VERDADERO
+La OTAN fue fundada en 1949.,politica,VERDADERO
+La Generalitat de Catalunya es el gobierno autónomo de Cataluña.,politica,VERDADERO
+El sistema fiscal español distingue entre imposición directa e indirecta.,economia,VERDADERO
+El primer ser humano en el espacio fue Yuri Gagarin en 1961.,ciencia,VERDADERO
+El Palacio Real de Madrid es la residencia oficial de la familia real española.,cultura,VERDADERO
+La Gran Pirámide de Guiza fue construida para el faraón Keops.,historia,VERDADERO
+"El número exacto de cotizantes a la Seguridad Social en España en enero de 2026 era de 21,3 millones.",economia,NO_VERIFICABLE
+El número de pymes en España en 2025 superó los 3 millones.,economia,NO_VERIFICABLE
+Las negociaciones internas del gobierno de coalición sobre el presupuesto de 2026 fracasaron por un artículo.,politica,NO_VERIFICABLE
+El Partido Popular surgió de la refundación de Alianza Popular en 1989.,politica,VERDADERO
+El porcentaje exacto de catalanes que apoyaba la independencia en enero de 2026 era del 43%.,politica,NO_VERIFICABLE
+Studio Ghibli es el estudio de animación japonés más reconocido internacionalmente.,cultura,VERDADERO
+El esgrima español tiene una larga tradición histórica desde el siglo XVI.,deportes,VERDADERO
+Los Acuerdos de Camp David de 1978 fueron un tratado de paz entre Egipto e Israel.,historia,VERDADERO
+La fotosíntesis convierte CO₂ y agua en glucosa y oxígeno.,ciencia,VERDADERO
+El movimiento hip-hop surgió en el Bronx de Nueva York en los años 70.,cultura,VERDADERO
+El Apartheid sudafricano se instauró formalmente en 1948.,historia,VERDADERO
+La guerra de Corea duró de 1950 a 1953.,historia,VERDADERO
+El INE elabora estadísticas económicas exclusivamente para uso gubernamental.,economia,FALSO
+La invención del telégrafo transformó las comunicaciones en el siglo XIX.,historia,VERDADERO
+El Reino Unido abandonó oficialmente la UE el 31 de enero de 2019.,politica,FALSO
+"La automatización industrial solo crea nuevos empleos, nunca los destruye.",economia,FALSO
+La Revolución Francesa comenzó en 1799.,historia,FALSO
+Francisco de Quevedo fue un destacado escritor del Siglo de Oro español.,cultura,VERDADERO
+La diabetes tipo 1 es una enfermedad autoinmune en la que el cuerpo destruye las células productoras de insulina.,ciencia,VERDADERO
+Los Juegos Olímpicos modernos fueron inaugurados en Atenas en 1900.,deportes,FALSO
+"La paradoja del ahorro establece que si todos ahorran, la economía siempre crece.",economia,FALSO
+El número de escaños que tendrá Vox en las próximas elecciones es incierto.,politica,NO_VERIFICABLE
+El G20 agrupa a las 20 economías más grandes del mundo.,politica,VERDADERO
+El boom latinoamericano fue un movimiento literario de los años 60 y 70.,cultura,VERDADERO
+El monopolio es un mercado dominado por pocas empresas.,economia,FALSO
+Claude Monet fue el principal exponente del impresionismo francés.,cultura,VERDADERO
+Mark Spitz ganó siete medallas de oro en natación en los Juegos de Múnich 1972.,deportes,VERDADERO
+El rover Curiosity de la NASA aterrizó en Marte en agosto de 2012.,ciencia,VERDADERO
+La Transición española fue el periodo de democratización tras la muerte de Franco.,historia,VERDADERO
+El mercado de divisas (FOREX) es el mercado financiero más grande del mundo.,economia,VERDADERO
+La imprenta de tipos móviles fue inventada por Johannes Gutenberg hacia 1450.,historia,VERDADERO
+La fusión nuclear ya se usa comercialmente para generar electricidad.,ciencia,FALSO
+La imprenta fue inventada por Gutenberg hacia 1550.,historia,FALSO
+El número exacto de soldados que participaron en la batalla de Maratón fue de 10.000.,historia,NO_VERIFICABLE
+El planeta más grande del Sistema Solar es Júpiter.,ciencia,VERDADERO
+La vitamina D se sintetiza en el hígado mediante la alimentación.,ciencia,FALSO
+Saladino reconquistó Jerusalén en 1187.,historia,VERDADERO
+La Copa Davis fue fundada en 1930.,deportes,FALSO
+El gen responsable del envejecimiento acelerado en ratones fue identificado en 2024.,ciencia,NO_VERIFICABLE
+El número de personas torturadas por la Inquisición española sigue siendo debatido por los historiadores.,historia,NO_VERIFICABLE
+Las negociaciones secretas entre Israel y Arabia Saudí en 2024 llegaron a un acuerdo preliminar.,politica,NO_VERIFICABLE
+Estados Unidos declaró su independencia el 4 de julio de 1786.,historia,FALSO
+La oferta y la demanda son los conceptos fundamentales de la economía de mercado.,economia,VERDADERO
+El VAR fue introducido en el fútbol de forma obligatoria en todos los torneos desde 2015.,deportes,FALSO
+El teorema de Gödel prueba que todo sistema matemático es completo y consistente.,ciencia,FALSO
+El IRPF (Impuesto sobre la Renta de las Personas Físicas) es el impuesto sobre la renta en España.,economia,VERDADERO
+Los archivos de la Fundación Francisco Franco contienen documentación sobre el régimen no catalogada.,historia,NO_VERIFICABLE
+México es la segunda mayor economía de América Latina.,politica,VERDADERO
+Dinamarca adoptó el euro en 2002.,politica,FALSO
+El Imperio español fue uno de los primeros imperios globales de la historia.,historia,VERDADERO
+El culturismo fue incluido en los Juegos Olímpicos en Los Ángeles 1984.,deportes,VERDADERO
+El principio de incertidumbre fue formulado por Werner Heisenberg.,ciencia,VERDADERO
+Internet fue desarrollado inicialmente como ARPANET por el Departamento de Defensa de EE.UU.,ciencia,VERDADERO
+Rafael Nadal ha ganado Roland Garros 14 veces.,deportes,VERDADERO
+La eficiencia de los paneles solares aumentará un 15% en los próximos 5 años.,ciencia,NO_VERIFICABLE
+El lehendakari es el jefe del gobierno de Navarra.,politica,FALSO
+El número exacto de empresas que quebraron en España en 2025 fue de 4.230.,economia,NO_VERIFICABLE
+Los neutrinos tienen masa muy pequeña pero distinta de cero.,ciencia,VERDADERO
+El gobierno chino aprobó internamente un plan de reunificación con Taiwán para 2035.,politica,NO_VERIFICABLE
+El número exacto de monumentos megalíticos existentes en España supera los 10.000.,historia,NO_VERIFICABLE
+El genoma humano contiene aproximadamente 3.000 millones de aminoácidos.,ciencia,FALSO
+Chile fue el primer país latinoamericano en tener un índice de desarrollo humano muy alto.,politica,VERDADERO
+El Consejo General del Poder Judicial está presidido por el ministro de Justicia.,politica,FALSO
+Lewis Hamilton ha ganado seis campeonatos mundiales de Fórmula 1.,deportes,FALSO
+Alemania es una república federal.,politica,VERDADERO
+Francisco de Goya fue un pintor español del siglo XVIII y XIX.,cultura,VERDADERO
+Pedro Almodóvar es un director de cine italiano.,cultura,FALSO
+El FMI (Fondo Monetario Internacional) tiene su sede en Washington D.C.,politica,VERDADERO
+Los juicios de Núremberg fueron celebrados por la Liga de Naciones.,historia,FALSO
+Los Juegos Olímpicos de 2024 se celebraron en París.,deportes,VERDADERO
+El Atlético de Madrid ganó la Liga española en la temporada 2020-21.,deportes,VERDADERO
+El beneficio neto de Inditex en el ejercicio 2025 superó los 5.000 millones de euros.,economia,NO_VERIFICABLE
+Las conversaciones de paz en Yemen mediadas por Arabia Saudí en 2025 estuvieron cerca del éxito.,politica,NO_VERIFICABLE
+Lope de Vega fue el máximo exponente del surrealismo español.,cultura,FALSO
+La batalla de Maratón tuvo lugar en el año 490 a.C.,historia,VERDADERO
+La Revolución Francesa comenzó en 1789.,historia,VERDADERO
+El número exacto de libros en español publicados fuera de España en 2025 superó los 50.000 títulos.,cultura,NO_VERIFICABLE
+La Revolución China llevó a la fundación de la República Popular China en 1949.,historia,VERDADERO
+El ADN mitocondrial se hereda exclusivamente por vía materna.,ciencia,VERDADERO
+Pelé ganó cuatro Copas del Mundo con Brasil.,deportes,FALSO
+La Copa del Rey es el torneo de fútbol más antiguo de España.,deportes,VERDADERO
+Alejandro Magno nació en Atenas en el año 356 a.C.,historia,FALSO
+Michael Phelps tiene el récord mundial de los 100 metros lisos.,deportes,FALSO
+"El calor se transfiere por conducción, convección y radiación.",ciencia,VERDADERO
+El número exacto de resoluciones aprobadas por la ONU en 2025 fue de 312.,politica,NO_VERIFICABLE
+El Senado de EE.UU. tiene 435 miembros.,politica,FALSO
+El fascismo italiano fue fundado por Mussolini en 1922.,historia,FALSO
+El Open de Australia es el primer Grand Slam del año.,deportes,VERDADERO
+Pau Gasol ganó dos títulos de la NBA con los Chicago Bulls.,deportes,FALSO
+El ADN mitocondrial se hereda por vía paterna.,ciencia,FALSO
+El número de espectadores en el GP de España de Fórmula 1 en 2025 fue de 130.000.,deportes,NO_VERIFICABLE
+El número de funcionarios públicos en España en 2025 superó los tres millones.,politica,NO_VERIFICABLE
+España ganó el oro olímpico en baloncesto en los Juegos de Atenas 2004.,deportes,VERDADERO
+La Fundación Joan Miró está en Barcelona.,cultura,VERDADERO
+El mar Muerto es el punto más bajo de la superficie terrestre.,politica,VERDADERO
+El oro se considera un activo de riesgo en tiempos de incertidumbre.,economia,FALSO
+Michael Jackson es conocido como el 'Rey del Pop'.,cultura,VERDADERO
+Abraham Lincoln fue asesinado en 1865.,historia,VERDADERO
+El Banco Central Europeo tiene su sede en Bruselas.,economia,FALSO
+La relatividad general fue publicada por Einstein en 1905.,ciencia,FALSO
+La guerra de Ucrania comenzó con la invasión rusa a gran escala el 24 de febrero de 2022.,politica,VERDADERO
+Los transistores son los componentes básicos de las baterías modernas.,ciencia,FALSO
+Los eclipses solares ocurren cuando la Luna se interpone entre la Tierra y el Sol.,ciencia,VERDADERO
+Los polipéptidos son cadenas de aminoácidos unidos por enlaces peptídicos.,ciencia,VERDADERO
+El D-Day ocurrió el 6 de junio de 1942.,historia,FALSO
+La OTAN fue fundada en 1955.,politica,FALSO
+El sector servicios representa más del 70% del PIB en los países desarrollados.,economia,VERDADERO
+El voltaje eléctrico se mide en voltios.,ciencia,VERDADERO
+La corteza cerebral es la capa externa del cerebro responsable de funciones cognitivas.,ciencia,VERDADERO
+Jackson Pollock fue el principal representante del pop art.,cultura,FALSO
+El Ibex 35 es el principal índice bursátil de la Bolsa de Barcelona.,economia,FALSO
+La OPEP regula la producción de petróleo de sus países miembros para controlar precios.,economia,VERDADERO
+Iker Casillas ganó el Mundial de 2010 y tres Champions con el Real Madrid.,deportes,VERDADERO
+El desierto de Gobi está en el norte de África.,politica,FALSO
+"El porcentaje de emisiones de CO₂ que supone la aviación a nivel mundial en 2025 era del 2,5%.",ciencia,NO_VERIFICABLE
+La batalla de Lepanto en 1571 fue una victoria de la Liga Santa sobre el Imperio Otomano.,historia,VERDADERO
+Carlos Alcaraz ganó exactamente 8 torneos ATP en 2025.,deportes,NO_VERIFICABLE
+El teletrabajo disminuyó significativamente durante la pandemia de COVID-19.,economia,FALSO
+Venezuela ha sufrido una grave crisis económica y política desde 2013.,politica,VERDADERO
+Lewis Hamilton ha ganado siete campeonatos mundiales de Fórmula 1.,deportes,VERDADERO
+La cantidad exacta de dinero negro aflorado en España durante 2025 fue de 800 millones de euros.,economia,NO_VERIFICABLE
+El baloncesto fue inventado por James Naismith en 1901.,deportes,FALSO
+El Consejo de Seguridad de la ONU tiene cinco miembros permanentes con derecho a veto.,politica,VERDADERO
+El Congo tiene las mayores reservas mundiales de cobalto.,politica,VERDADERO
+Roger Federer se retiró del tenis profesional en 2022.,deportes,VERDADERO
+Neptuno es el séptimo planeta del Sistema Solar.,ciencia,FALSO
+El Muro de Berlín cayó el 9 de noviembre de 1991.,historia,FALSO
+El número exacto de espectadores que vio la final del Mundial de 2022 en televisión fue de 1.500 millones.,deportes,NO_VERIFICABLE
+El PIB per cápita de España supera al de Alemania.,politica,FALSO
+El Banco Mundial tiene su sede en Washington D.C.,economia,VERDADERO
+Los drones son vehículos aéreos no tripulados controlados remotamente.,ciencia,VERDADERO
+La Unión Europea fue fundada formalmente con el Tratado de Maastricht en 1985.,politica,FALSO
+El Telescopio Espacial Hubble fue lanzado en 1990.,ciencia,VERDADERO
+Los Juegos Olímpicos de Barcelona se celebraron en 1988.,historia,FALSO
+Sócrates fue condenado a muerte en Esparta en el año 399 a.C.,historia,FALSO
+La isla de Groenlandia pertenece al Reino de Dinamarca.,politica,VERDADERO
+El golpe de estado del 23F fue liderado por el general Milans del Bosch.,historia,FALSO
+Adolf Hitler fue canciller de Alemania desde 1933.,historia,VERDADERO
+La Bienal de Arte de Venecia es una de las exposiciones de arte contemporáneo más importantes.,cultura,VERDADERO
+La Liga Árabe agrupa a los estados de habla árabe.,politica,VERDADERO
+El Sevilla FC ha ganado más títulos de Copa del Rey que la Champions League.,deportes,FALSO
+La respiración celular aeróbica produce ATP usando glucosa y oxígeno.,ciencia,VERDADERO
+ETA se disolvió en 2010.,historia,FALSO
+El sistema inmunológico produce anticuerpos para combatir patógenos.,ciencia,VERDADERO
+El virreinato de la Nueva España fue el más rico de los dominios españoles.,historia,VERDADERO
+El blockchain es una cadena de bloques de datos descentralizada e inmutable.,ciencia,VERDADERO
+Próxima Centauri es la estrella más brillante del cielo nocturno.,ciencia,FALSO
+El láser fue inventado en 1960 por Theodore Maiman.,ciencia,VERDADERO
+Charles Darwin publicó 'El origen de las especies' en 1859.,historia,VERDADERO
+Los quarks fueron predichos por Max Planck en los años 1960.,ciencia,FALSO
+La densidad del agua es de 10 g/cm³ a 4°C.,ciencia,FALSO
+El sistema de pensiones de reparto se financia con las cotizaciones de los trabajadores activos.,economia,VERDADERO
+Leonardo da Vinci fue un polímata del Renacimiento francés.,historia,FALSO
+La mecánica cuántica describe el comportamiento de las partículas subatómicas.,ciencia,VERDADERO
+La fibra óptica transmite datos mediante pulsos de luz.,ciencia,VERDADERO
+La Formula E es una categoría de monoplazas eléctricos.,deportes,VERDADERO
+Aldous Huxley escribió 'El gran Gatsby'.,cultura,FALSO
+Las fintech replican exactamente los modelos de negocio de la banca tradicional.,economia,FALSO
+Marie Curie fue la primera persona en ganar tres Premios Nobel.,ciencia,FALSO
+La serie 'La casa de papel' fue producida por HBO.,cultura,FALSO
+Platón fue discípulo de Aristóteles.,historia,FALSO
+El ozono está compuesto por tres átomos de oxígeno (O₃).,ciencia,VERDADERO
+La cordillera del Himalaya alberga los picos más altos del mundo.,politica,VERDADERO
+La Copa América es el torneo de selecciones más antiguo del mundo.,deportes,VERDADERO
+La Internacional Comunista (Comintern) fue fundada por Lenin en 1919.,historia,VERDADERO
+El Canal de Suez fue inaugurado en 1869.,historia,VERDADERO
+"La paradoja del ahorro plantea que si todos ahorran más simultáneamente, la economía se contrae.",economia,VERDADERO
+El Premio Cervantes es el galardón literario más importante en francés.,cultura,FALSO
+La Copa del Mundo de Fútbol se celebra cada dos años.,deportes,FALSO
+La batalla de Maratón tuvo lugar en el año 490 d.C.,historia,FALSO
+La crisis financiera de 2008 comenzó en Europa con el colapso bancario griego.,economia,FALSO
+Las Fallas de Valencia son una fiesta declarada Patrimonio de la Humanidad por la UNESCO en 1990.,cultura,FALSO
+Lewis Hamilton ha ganado seis campeonatos mundiales de Fórmula 1.,deportes,FALSO
+El Imperio Romano tenía una red de carreteras de exactamente 85.004 km.,historia,NO_VERIFICABLE
+Los Juegos Paralímpicos se celebran en la misma sede que los Juegos Olímpicos.,deportes,VERDADERO
+La libra esterlina es la moneda del Reino Unido.,economia,VERDADERO
+La economía sumergida contribuye positivamente a las estadísticas del PIB.,economia,FALSO
+La deuda estudiantil en EE.UU. supera los 100 millones de dólares.,economia,FALSO
+"El Senado de EE.UU. tiene 100 senadores, dos por cada estado.",politica,VERDADERO
+"El castellano coexiste con el catalán, el euskera, el gallego y el valenciano en España.",cultura,VERDADERO
+El sonido viaja a aproximadamente 343 m/s en el aire a 20°C.,ciencia,VERDADERO
+The Rolling Stones es una banda de rock formada en Londres en 1962.,cultura,VERDADERO
+La guerra de las Malvinas fue un conflicto entre Argentina y el Reino Unido en 1982.,historia,VERDADERO
+Una película española fue preseleccionada para los Óscar pero no llegó a la lista final en 2026.,cultura,NO_VERIFICABLE
+La prima de clasificación para el Mundial 2026 que recibirá la selección española es de 10 millones.,deportes,NO_VERIFICABLE
+El Nilo es el río más largo del mundo.,politica,VERDADERO
+La hiperinflación implica una inflación mensual superior al 50%.,economia,VERDADERO
+La producción de cine español que más recaudó en 2025 fue una comedia de bajo presupuesto.,cultura,NO_VERIFICABLE
+Ken Follett ambientó varias novelas históricas en España medieval.,cultura,VERDADERO
+El genocidio de Ruanda ocurrió en 1994.,historia,VERDADERO
+El derecho internacional humanitario regula los conflictos armados.,politica,VERDADERO
+El Greco fue un pintor español nacido en Sevilla en el siglo XVI.,cultura,FALSO
+El porcentaje exacto del PIB español que representan las exportaciones en 2025 era del 35%.,economia,NO_VERIFICABLE
+La fórmula química del agua es H₂O.,ciencia,VERDADERO
+Los antibióticos son efectivos para tratar infecciones virales como la gripe.,ciencia,FALSO
+Arabia Saudí es el país con mayor reserva de gas natural del mundo.,politica,FALSO
+El efecto fotoeléctrico fue explicado por Einstein en 1905.,ciencia,VERDADERO
+La escala Richter mide la magnitud de los terremotos.,ciencia,VERDADERO
+La artritis reumatoide es causada por bacterias.,ciencia,FALSO
+El Banco Santander es uno de los mayores bancos de Europa por capitalización.,economia,VERDADERO
+Plutón fue reclasificado como planeta enano en 2006.,ciencia,VERDADERO
+Podemos fue un partido político de izquierda española fundado en 2014.,politica,VERDADERO
+El sistema bancario de reserva fraccionaria permite a los bancos prestar más de lo que tienen.,economia,VERDADERO
+La inversión en investigación sobre fusión nuclear superó los 10.000 millones en 2025.,ciencia,NO_VERIFICABLE
+La batalla de Lepanto fue una victoria de la Liga Santa sobre los otomanos en el golfo de Patras.,historia,VERDADERO
+El número de municipios gobernados por el PP en España tras las elecciones de 2023 fue de 4.200.,politica,NO_VERIFICABLE
+La escritura cuneiforme fue desarrollada por los sumerios.,historia,VERDADERO
+Las startups son empresas emergentes con alto potencial de crecimiento.,economia,VERDADERO
+El número exacto de galerías de arte en Madrid en 2025 era de 187.,cultura,NO_VERIFICABLE
+El nivel de contaminación atmosférica en Madrid en enero de 2025 superó el del año anterior.,ciencia,NO_VERIFICABLE
+La batalla de Midway de 1942 fue decisiva para el curso de la guerra en el Pacífico.,historia,VERDADERO
+Ciudadanos fue un partido político liberal español fundado en 2006.,politica,VERDADERO
+Atenas fue la cuna de la democracia en la Antigüedad.,historia,VERDADERO
+La renta per cápita de España supera a la de Francia y Alemania.,economia,FALSO
+Franz Kafka escribió 'La metamorfosis' y 'El proceso'.,cultura,VERDADERO
+Calderón de la Barca fue el creador del personaje de Don Juan Tenorio.,cultura,FALSO
+La pintura de Velázquez 'Las Meninas' se encuentra en el Museo del Prado.,cultura,VERDADERO
+El enlace covalente implica compartición de electrones entre átomos.,ciencia,VERDADERO
+El punto de fusión del agua a presión estándar es 0°C.,ciencia,VERDADERO
+El PSOE fue fundado por Pablo Iglesias en 1879.,politica,FALSO
+El presidente de EE.UU. es elegido directamente por voto popular.,politica,FALSO
+Rafa Nadal nació en Palma de Mallorca en 1986.,deportes,FALSO
+Un año luz es la distancia que recorre la luz en un año.,ciencia,VERDADERO
+El porcentaje de jóvenes españoles que usa aplicaciones de streaming para escuchar música en 2025 era del 78%.,cultura,NO_VERIFICABLE
+La economía verde busca combinar crecimiento económico con sostenibilidad ambiental.,economia,VERDADERO
+La trilogía del 'Señor de los Anillos' de Peter Jackson ganó múltiples premios Óscar.,cultura,VERDADERO
+Apple fue la primera empresa en alcanzar una capitalización bursátil de 1 billón de dólares.,economia,VERDADERO
+Luis de Góngora fue el máximo exponente del culteranismo en el Siglo de Oro.,cultura,VERDADERO
+El déficit fiscal ocurre cuando el gasto público supera a los ingresos del Estado.,economia,VERDADERO
+El Parlamento Europeo tiene sede únicamente en Bruselas.,politica,FALSO
+El número de premios internacionales recibidos por la música española en 2025 fue de 34.,cultura,NO_VERIFICABLE
+El teorema de Gödel muestra los límites de los sistemas formales.,ciencia,VERDADERO
+El fascismo italiano fue fundado por Benito Mussolini en 1919.,historia,VERDADERO
+Umberto Eco fue un semiólogo y novelista italiano autor de 'El nombre de la rosa'.,cultura,VERDADERO
+El salario de eficiencia se paga por debajo del mercado para reducir costes laborales.,economia,FALSO
+La empresa X invirtió más de 2.000 millones de dólares en investigación cuántica en 2025.,ciencia,NO_VERIFICABLE
+La tasa de paro o desempleo mide solo el desempleo juvenil.,economia,FALSO
+Los Alpes son la cordillera montañosa más extensa de Europa occidental.,politica,VERDADERO
+El INE (Instituto Nacional de Estadística) elabora las estadísticas oficiales de España.,economia,VERDADERO
+Pelé ganó cuatro Copas del Mundo con Brasil.,historia,FALSO
+La 'Armada Invencible' española fue derrotada por Francia en 1588.,historia,FALSO
+La Alhambra de Granada fue construida por Felipe II.,cultura,FALSO
+La Revolución Americana llevó a la independencia de las Trece Colonias.,historia,VERDADERO
+"Napoleón Bonaparte era exactamente 1,68 metros de altura, contrariamente al mito.",historia,NO_VERIFICABLE
+El Amazonas es el río con mayor caudal del mundo.,politica,VERDADERO
+La trampa de liquidez ocurre cuando los tipos de interés llegan a cero y la política monetaria pierde eficacia.,economia,VERDADERO
+Fernando Alonso ganó el campeonato mundial de F1 en 2003 y 2004.,deportes,FALSO
+La Fed Cup (ahora Billie Jean King Cup) es la Copa del Mundo femenina de tenis.,deportes,VERDADERO
+Cuba mantiene un régimen comunista desde la revolución de 1959.,politica,VERDADERO
+El primer iPhone fue presentado por Steve Jobs en 2004.,ciencia,FALSO
+La batería con mayor densidad energética desarrollada en 2025 almacenaba 500 Wh/kg.,ciencia,NO_VERIFICABLE
+El Super Bowl es la final de la NFL y atrae la mayor audiencia televisiva en EE.UU.,deportes,VERDADERO
+Las arañas tienen ocho patas y no son insectos.,ciencia,VERDADERO
+La mitosis es el proceso de división celular que produce dos células hijas idénticas.,ciencia,VERDADERO
+Dinamarca es miembro de la UE pero no del euro.,politica,VERDADERO
+La reacción de polimerización une moléculas pequeñas (monómeros) en cadenas largas.,ciencia,VERDADERO
+La sede del gobierno español es el Palacio Real.,politica,FALSO
+"El pentatlón moderno incluye esgrima, natación, hipismo, ciclismo y carrera.",deportes,FALSO
+El sistema linfático ayuda al sistema inmune y regula fluidos corporales.,ciencia,VERDADERO
+El primer transistor fue inventado en 1947 en los Laboratorios Bell.,ciencia,VERDADERO
+La inversión en inteligencia artificial en España durante 2025 fue de exactamente 1.200 millones de euros.,economia,NO_VERIFICABLE
+La Gran Depresión comenzó con el crack bursátil de 1919.,historia,FALSO
+"Bélgica tiene tres comunidades lingüísticas: flamenca, francesa y germana.",politica,VERDADERO
+"Roma fue fundada, según la tradición, en el año 753 d.C.",historia,FALSO
+El armisticio de noviembre de 1918 puso fin a la Segunda Guerra Mundial.,historia,FALSO
+La reacción de combustión del metano produce CO₂ y agua.,ciencia,VERDADERO
+Pablo Neruda fue un poeta chileno ganador del Premio Nobel de Literatura.,cultura,VERDADERO
+Los metales nobles como el oro y el platino resisten bien la corrosión.,ciencia,VERDADERO
+La Fiscalía General del Estado es el órgano superior del Ministerio Fiscal.,politica,VERDADERO
+El Partido Socialista Obrero Español (PSOE) fue fundado en 1879.,politica,VERDADERO
+Las bombas atómicas sobre Hiroshima y Nagasaki fueron lanzadas en agosto de 1945.,historia,VERDADERO
+Los rescates bancarios con dinero público fueron una polémica medida durante la crisis de 2008.,economia,VERDADERO
+Las ondas gravitacionales fueron detectadas por primera vez en 2005 por LIGO.,ciencia,FALSO
+El ingreso per cápita es el PIB dividido por el número de habitantes.,economia,VERDADERO
+El Festival de Cannes es uno de los festivales de cine más prestigiosos del mundo.,cultura,VERDADERO
+El porcentaje de españoles que tiene algún tipo de deuda financiera en 2025 es del 52%.,economia,NO_VERIFICABLE
+Argentina ganó la Copa del Mundo de 2022 derrotando a España en la final.,deportes,FALSO
+El porcentaje de españoles que confía en el sistema judicial en 2025 era del 32%.,politica,NO_VERIFICABLE
+El golf fue reintroducido en los Juegos Olímpicos en Río 2016 tras una ausencia de 112 años.,deportes,VERDADERO
+Salvador Dalí fue un pintor español representante del impresionismo.,cultura,FALSO
+Noruega no es miembro de la Unión Europea.,politica,VERDADERO
+El estadio Camp Nou tiene capacidad para más de 120.000 espectadores.,deportes,FALSO
+La cantidad de dinero recaudada por la música española en mercados extranjeros en 2025 fue de 800 millones.,cultura,NO_VERIFICABLE
+Alfred Hitchcock fue conocido como el maestro del cine de acción.,cultura,FALSO
+"El número exacto de visitantes del Museo Guggenheim de Bilbao en 2025 fue de 1,2 millones.",cultura,NO_VERIFICABLE
+Israel fue fundado como estado en 1948.,politica,VERDADERO
+Amazon es la empresa de comercio electrónico más grande del mundo.,economia,VERDADERO
+La invasión soviética de Afganistán comenzó en 1969.,historia,FALSO
+Los hongos son organismos procariotas similares a las plantas.,ciencia,FALSO
+La federación española de fútbol recibió exactamente 45 millones de euros en patrocinios en 2025.,deportes,NO_VERIFICABLE
+La Perestroika y la Glasnost fueron reformas de Gorbachov en la URSS.,historia,VERDADERO
+Los isótopos son átomos de diferentes elementos con igual número de protones.,ciencia,FALSO
+Las fintech son empresas tecnológicas que ofrecen servicios financieros innovadores.,economia,VERDADERO
+El espacio Schengen es idéntico en su composición a la Unión Europea.,politica,FALSO
+El golpe de estado del 23 de febrero de 1981 fue liderado por el teniente coronel Tejero.,historia,VERDADERO
+Francisco Franco fue dictador de España desde 1939 hasta su muerte en 1975.,historia,VERDADERO
+El PIB mide el valor total de las importaciones de un país.,economia,FALSO
+Los agujeros negros emiten luz visible de forma constante.,ciencia,FALSO
+El flamenco tiene sus raíces exclusivamente en la cultura árabe.,cultura,FALSO
+Las vacunas entrenan al sistema inmunológico sin causar la enfermedad.,ciencia,VERDADERO
+El mercado de carbono asigna precio al oxígeno emitido por los coches.,economia,FALSO
+El efecto riqueza es el impacto del aumento del valor de los activos sobre el consumo.,economia,VERDADERO
+La Semana Santa es una tradición religiosa exclusiva de Andalucía.,cultura,FALSO
+La memoria RAM es volátil: pierde sus datos al apagarse el ordenador.,ciencia,VERDADERO
+La Biblioteca Nacional de España digitalizó exactamente 2 millones de documentos en 2025.,cultura,NO_VERIFICABLE
+La federación española de atletismo registró un número récord de licencias en 2025.,deportes,NO_VERIFICABLE
+"Canberra es la capital de Australia, no Sídney.",politica,VERDADERO
+La resonancia magnética nuclear (RMN) es la base de la técnica de imagen médica MRI.,ciencia,VERDADERO
+El G7 agrupa a las siete principales economías avanzadas del mundo.,politica,VERDADERO
+Nadia Comaneci fue la primera gimnasta en obtener un 10 perfecto en los Juegos Olímpicos.,deportes,VERDADERO
+"La audiencia de los premios Goya en 2025 fue de exactamente 2,8 millones de espectadores.",cultura,NO_VERIFICABLE
+El porcentaje de energía renovable en la mezcla energética mundial en 2025 era del 30%.,ciencia,NO_VERIFICABLE
+Antonio Muñoz Molina es un novelista español miembro de la RAE.,cultura,VERDADERO
+Las Cruzadas fueron expediciones militares organizadas por la Iglesia católica.,historia,VERDADERO
+El dióxido de carbono tiene la fórmula CO₂.,ciencia,VERDADERO
+"Las opciones financieras dan el derecho, pero no la obligación, de comprar o vender un activo.",economia,VERDADERO
+El Tour de Francia se disputa en Francia pero incluye etapas en otros países.,deportes,VERDADERO
+La Liga de Naciones fue fundada en 1945 tras la Segunda Guerra Mundial.,historia,FALSO
+El agua se congela a 0°C a nivel del mar.,ciencia,VERDADERO
+La fibra óptica transmite datos mediante pulsos de microondas.,ciencia,FALSO
+Telefónica opera exclusivamente en España y Portugal.,economia,FALSO
+La impresión 3D fue inventada por Steve Jobs en Apple en 1985.,ciencia,FALSO
+La batalla de El Alamein en 1942 fue clave para el curso de la guerra en África.,historia,VERDADERO
+El Festival de Cannes es el festival de cine más importante de Italia.,cultura,FALSO
+Alfred Hitchcock fue el maestro del suspense en el cine.,cultura,VERDADERO
+El número exacto de leyes aprobadas por el Parlamento español en 2025 fue de 28.,politica,NO_VERIFICABLE
+El número de EREs (expedientes de regulación de empleo) aprobados en España en 2025 fue de 1.800.,economia,NO_VERIFICABLE
+La cantidad que el Barça obtuvo por la venta de sus instalaciones en 2025 fue de 500 millones.,deportes,NO_VERIFICABLE
+El gobierno español aprobó un decreto secreto sobre vigilancia digital en 2025.,politica,NO_VERIFICABLE
+El Tribunal Penal Internacional tiene sede en Ginebra.,politica,FALSO
+"El porcentaje exacto de españoles diagnosticados con algún tipo de cáncer en 2025 fue del 3,2%.",ciencia,NO_VERIFICABLE
+La Supercopa de España enfrenta al campeón de Liga y al de Copa del Rey.,deportes,VERDADERO
+Australia es el continente más grande del mundo.,politica,FALSO
+La cantidad de oro del Banco de España enviada a la URSS en 1936 supera las estimaciones oficiales.,historia,NO_VERIFICABLE
+El Imperio Romano de Occidente cayó en el año 476 d.C.,historia,VERDADERO
+El punto de ebullición del agua en la cima del Everest es 100°C.,ciencia,FALSO
+El escándalo Watergate provocó la dimisión del presidente Nixon en 1974.,historia,VERDADERO
+John Williams compuso la banda sonora de 'El padrino'.,cultura,FALSO
+La fotosíntesis convierte nitrógeno y agua en glucosa y oxígeno.,ciencia,FALSO
+Perú tiene una de las economías más estables de América del Sur.,politica,VERDADERO
+Steven Spielberg dirigió 'El padrino' y 'E.T.'.,cultura,FALSO
+"El número exacto de refugiados sirios en Turquía a principios de 2026 era de 3,5 millones.",politica,NO_VERIFICABLE
+"El Louvre es el museo más visitado del mundo, ubicado en Roma.",cultura,FALSO
+La ley de la gravitación universal fue formulada por Isaac Newton.,ciencia,VERDADERO
+El yuan chino (renminbi) es la moneda oficial de China.,economia,VERDADERO
+La Primera Internacional fue una organización obrera fundada en 1864.,historia,VERDADERO
+Los aranceles son impuestos aplicados a las importaciones.,economia,VERDADERO
+El Sevilla FC ha ganado más títulos de la UEFA Europa League que cualquier otro club.,deportes,VERDADERO
+El porcentaje de españoles que declara no llegar a fin de mes en 2025 era del 29%.,economia,NO_VERIFICABLE
+La deuda pública española en el tercer trimestre de 2025 ascendía al 108% del PIB.,economia,NO_VERIFICABLE
+El G7 agrupa a las siete principales economías emergentes del mundo.,politica,FALSO
+Amazon fue la primera empresa en alcanzar una capitalización de 1 billón de dólares.,economia,FALSO
+Netflix rechazó la producción de una serie española en 2025 por razones de presupuesto.,cultura,NO_VERIFICABLE
+René Magritte fue un pintor surrealista italiano.,cultura,FALSO
+Las enanas blancas son el remanente de estrellas de masa similar al Sol tras supernova.,ciencia,FALSO
+El maratón olímpico tiene una distancia de 38 kilómetros.,deportes,FALSO
+La Reconquista española concluyó en 1492 con la toma de Granada.,historia,VERDADERO
+Michael Jackson es conocido como el 'Rey del Rock'.,cultura,FALSO
+Las negociaciones para los Presupuestos Generales del Estado de 2026 fracasaron en octubre de 2025.,politica,NO_VERIFICABLE
+Los quarks son los componentes fundamentales de los protones y neutrones.,ciencia,VERDADERO
+Los documentos secretos sobre la Operación Gladio en España siguen sin desclasificarse completamente.,historia,NO_VERIFICABLE
+El infrarrojo es la radiación con menor longitud de onda del espectro.,ciencia,FALSO
+El sistema D'Hondt se usa en España para asignar escaños en las elecciones generales.,politica,VERDADERO
+La electronegatividad del cloro es la más alta de todos los elementos.,ciencia,FALSO
+El envejecimiento de la población es un reto para los sistemas de pensiones en Europa.,economia,VERDADERO
+El rey Felipe VI se casó con Letizia Ortiz en 2006.,historia,FALSO
+"Plácido Domingo, José Carreras y Luciano Pavarotti formaron el trío de Los Tres Tenores.",cultura,VERDADERO
+La película 'El laberinto del fauno' de Guillermo del Toro es una coproducción hispanomexicana.,cultura,VERDADERO
+El grafito y el diamante son dos formas alotrópicas del carbono.,ciencia,VERDADERO
+El Tratado de Lisboa reformó las instituciones de la Unión Europea en 2004.,historia,FALSO
+"El número exacto de pensionistas en España en enero de 2026 era de 10,2 millones.",economia,NO_VERIFICABLE
+Los Juegos Olímpicos modernos fueron inaugurados en Atenas en 1900.,deportes,FALSO
+La devaluación de una moneda encarece las exportaciones del país.,economia,FALSO
+El armisticio del 11 de noviembre de 1918 puso fin a la Primera Guerra Mundial.,historia,VERDADERO
+La ONU tiene 150 estados miembros.,politica,FALSO
+La Declaración de los Derechos del Hombre y del Ciudadano fue proclamada en 1789.,historia,VERDADERO
+El Partenón fue construido en el siglo V a.C. en la Acrópolis de Atenas.,historia,VERDADERO
+El número exacto de soldados republicanos fusilados durante la Guerra Civil española es desconocido.,historia,NO_VERIFICABLE
+El primer iPhone fue presentado por Steve Jobs en 2007.,ciencia,VERDADERO
+Stanley Kubrick dirigió 'El señor de los anillos' y 'La naranja mecánica'.,cultura,FALSO
+Marie Curie fue la primera persona en ganar dos Premios Nobel.,ciencia,VERDADERO
+El corazón humano tiene dos cámaras.,ciencia,FALSO
+Los glóbulos blancos transportan oxígeno por el cuerpo.,ciencia,FALSO
+El Plan Marshall fue un programa estadounidense de ayuda a Europa tras la Segunda Guerra Mundial.,historia,VERDADERO
+La cifra de espectadores del Clásico de enero de 2026 en televisión fue de 8 millones.,deportes,NO_VERIFICABLE
+El Premio Nobel de Literatura es uno de los más prestigiosos reconocimientos literarios.,cultura,VERDADERO
+El Camino de Santiago fue declarado Patrimonio de la Humanidad por la UNESCO.,cultura,VERDADERO
+La batalla de Hastings en 1066 fue una victoria anglosajona sobre los normandos.,historia,FALSO
+El número de resoluciones del Tribunal Constitucional sobre la ley de amnistía en 2025 fue de 3.,politica,NO_VERIFICABLE
+La microeconomía estudia las decisiones de empresas y consumidores individuales.,economia,VERDADERO
+Miguel Ángel pintó la Capilla Sixtina entre 1600 y 1605.,historia,FALSO
+Ernest Hemingway ganó el Premio Nobel de Literatura en 1960.,cultura,FALSO
+Colombia ha sido afectada por décadas de conflicto armado interno.,politica,VERDADERO
+Los vehículos eléctricos usan motores de hidrógeno en lugar de baterías.,ciencia,FALSO
+El precio medio del alquiler en Barcelona en enero de 2026 era de exactamente 1.350 euros mensuales.,economia,NO_VERIFICABLE
+Octavio Paz fue un poeta colombiano ganador del Nobel en 1982.,cultura,FALSO
+Las islas Canarias forman una comunidad autónoma española en el Atlántico.,politica,VERDADERO
+El número de cooperativas activas en España en 2025 superó las 20.000.,economia,NO_VERIFICABLE
+El presidente de Estados Unidos es elegido por el Colegio Electoral.,politica,VERDADERO
+Aristóteles fue tutor del joven Alejandro Magno.,historia,VERDADERO
+La tasa de paro en España ha sido históricamente superior a la media europea.,economia,VERDADERO
+Brasilia es la capital de Argentina.,politica,FALSO
+El número exacto de funcionarios públicos despedidos por la administración española en 2025 fue de 1.200.,politica,NO_VERIFICABLE
+Bartolomé Esteban Murillo fue un pintor barroco sevillano del siglo XVII.,cultura,VERDADERO
+El Telescopio Hubble fue lanzado al espacio en 1975.,ciencia,FALSO
+Japón es la segunda mayor economía del mundo por PIB nominal.,politica,FALSO
+Taiwán es reconocida como estado independiente por un número limitado de países.,politica,VERDADERO
+Valentino Rossi ganó nueve campeonatos mundiales de motociclismo.,deportes,VERDADERO
+Penélope Cruz fue la primera actriz latina en ganar un Óscar.,cultura,FALSO
+Las negociaciones de paz entre Rusia y Ucrania celebradas en enero de 2026 fracasaron por una sola condición.,politica,NO_VERIFICABLE
+España ingresó en la CEE el 1 de enero de 1990.,historia,FALSO
+La OPEP es la organización de países exportadores de petróleo.,politica,VERDADERO
+Los cromosomas sexuales determinan el sexo biológico en los mamíferos.,ciencia,VERDADERO
+El Real Madrid es el equipo con más Ligas de Campeones de la historia.,deportes,VERDADERO
+Rafael Moneo es el único arquitecto español que ha ganado el Premio Pritzker.,cultura,VERDADERO
+El boxeo tiene diferentes categorías según el peso de los combatientes.,deportes,VERDADERO
+El dumping es la práctica de vender productos por encima del precio de mercado.,economia,FALSO
+"La tasa de pobreza relativa en España en 2025 era del 20,2% según Cáritas.",economia,NO_VERIFICABLE
+El coste exacto de desarrollar el primer ordenador cuántico comercial fue de 50 millones de dólares.,ciencia,NO_VERIFICABLE
+Polonia es el país más grande de Europa central y oriental por superficie.,politica,VERDADERO
+La constante de Planck es fundamental en mecánica cuántica.,ciencia,VERDADERO
+El IVA es un impuesto que recae directamente sobre la renta de las personas.,economia,FALSO
+China es el mayor importador del mundo.,economia,FALSO
+La tasa exacta de reciclaje de residuos urbanos en España en 2025 fue del 38%.,ciencia,NO_VERIFICABLE
+El Giro de Italia es la vuelta ciclista más antigua del mundo.,deportes,VERDADERO
+Alemania ganó el Mundial de 2014 derrotando a Brasil 7-1 en la final.,deportes,FALSO
+El Consejo General del Poder Judicial gobierna el poder judicial español.,politica,VERDADERO
+La caída de Constantinopla ocurrió en 1543.,historia,FALSO
+El Real Madrid ganó catorce Ligas de Campeones entre 1960 y 2020.,deportes,FALSO
+Cuba se convirtió en una democracia liberal tras la revolución de 1959.,politica,FALSO
+Alemania y Brasil han sido las selecciones más exitosas en los Mundiales.,deportes,VERDADERO
+Led Zeppelin fue una influyente banda de rock duro británica.,cultura,VERDADERO
+Los fondos de pensiones invierten las cotizaciones para pagar futuras jubilaciones.,economia,VERDADERO
+Martin Luther King fue asesinado en Memphis en 1968.,historia,VERDADERO
+El número de acuerdos de libre comercio vigentes de la UE en enero de 2026 era de 46.,economia,NO_VERIFICABLE
+Santa Teresa de Jesús fue principalmente conocida como pintora.,cultura,FALSO
+El rover Perseverance aterrizó en la Luna en febrero de 2021.,ciencia,FALSO
+La crisis del Prestige en 2002 provocó un gran desastre ecológico en Galicia.,historia,VERDADERO
+El Tratado de Roma de 1957 fundó la OTAN.,politica,FALSO
+El galeón de Manila conectaba Europa con China directamente.,historia,FALSO
+Las hormonas son mensajeros químicos producidos por glándulas endocrinas.,ciencia,VERDADERO
+El sistema D'Hondt favorece a los partidos pequeños en perjuicio de los grandes.,politica,FALSO
+El baloncesto fue inventado por James Naismith en 1910.,deportes,FALSO
+La Copa América fue fundada en el año 2000.,deportes,FALSO
+La selección española ganó la Copa Mundial de Fútbol en 2010 en Sudáfrica.,deportes,VERDADERO
+"La NBA es la principal liga de baloncesto profesional del mundo, fundada en 1940.",deportes,FALSO
+Estados Unidos es la mayor economía del mundo por PIB nominal.,politica,VERDADERO
+Isabel Allende es una escritora chilena autora de 'La casa de los espíritus'.,cultura,VERDADERO
+"Velázquez pintó 'Las Meninas', una de las obras más importantes de la historia del arte.",cultura,VERDADERO
+La crisis de los misiles de Cuba ocurrió en octubre de 1962.,historia,VERDADERO
+Auguste Renoir fue otro de los pintores impresionistas más destacados.,cultura,VERDADERO
+El porcentaje de océano protegido por reservas marinas en 2025 era del 8%.,ciencia,NO_VERIFICABLE
+El espacio Schengen elimina los aranceles entre sus miembros.,politica,FALSO
+China tiene la mayor reserva de divisas extranjeras del mundo.,economia,VERDADERO
+El número exacto de empleados de la empresa Telefónica a nivel mundial en 2025 era de 100.000.,economia,NO_VERIFICABLE
+"La tasa de inflación exacta en España en enero de 2026 fue del 2,8%.",economia,NO_VERIFICABLE
+La vitamina D se sintetiza en la piel bajo la acción de la luz solar.,ciencia,VERDADERO
+El número de republicanos españoles que murieron en campos nazis supera las estimaciones oficiales.,historia,NO_VERIFICABLE
+"La tasa de ahorro de los hogares españoles en 2025 fue del 9,2% de la renta disponible.",economia,NO_VERIFICABLE
+Los archivos de la CIA sobre operaciones en América Latina siguen parcialmente clasificados.,historia,NO_VERIFICABLE
+Las redes neuronales artificiales están inspiradas en el cerebro humano.,ciencia,VERDADERO
+Los Chicago Bulls ganaron seis campeonatos de la NBA durante los años 90.,deportes,VERDADERO
+El libre comercio incluye aranceles para proteger la industria nacional.,economia,FALSO
+El Consejo Europeo reúne a los jefes de Estado y de Gobierno de la UE.,politica,VERDADERO
+El FC Barcelona es el equipo con más Ligas de Campeones de la historia.,deportes,FALSO
+El sistema operativo Linux fue creado por Linus Torvalds en 1991.,ciencia,VERDADERO
+La digestión descompone los alimentos en moléculas absorbibles.,ciencia,VERDADERO
+"Rafa Nadal nació en Palma de Mallorca, capital de las Baleares.",deportes,FALSO
+La Operación Overlord fue el nombre en clave del desembarco de Normandía.,historia,VERDADERO
+El Plan Marshall fue un programa soviético de ayuda a Europa.,historia,FALSO
+Franz Kafka nació en Praga en 1883.,cultura,VERDADERO
+Los archivos personales de Franco contienen información sobre acuerdos secretos con Hitler.,historia,NO_VERIFICABLE
+El número de países que reconocieron a Palestina como estado en 2025 superó los 150.,politica,NO_VERIFICABLE
+España tiene 15 comunidades autónomas.,politica,FALSO
+La OTAN activó el artículo 5 tras los ataques del 11 de septiembre de 2001 por primera vez.,politica,FALSO
+El porcentaje de estudios científicos que no pueden reproducirse es superior al 50%.,ciencia,NO_VERIFICABLE
+La selección española de baloncesto ha ganado varios Eurobaskets.,deportes,VERDADERO
+El número áureo (phi) es exactamente igual a la raíz cuadrada de 2.,ciencia,FALSO
+La inteligencia artificial es un campo de la informática que simula la inteligencia humana.,ciencia,VERDADERO
+David Bowie fue uno de los artistas de rock más innovadores del siglo XX.,cultura,VERDADERO
+"El salario medio de un jugador de Primera División española en 2025 era de 1,8 millones de euros.",deportes,NO_VERIFICABLE
+España ingresó en la Comunidad Económica Europea (hoy UE) el 1 de enero de 1986.,historia,VERDADERO
+Las pulsares son planetas que emiten radiación de forma periódica.,ciencia,FALSO
+Los mercados emergentes son economías en rápido desarrollo con alto potencial.,economia,VERDADERO
+Zurbarán fue un pintor del Renacimiento italiano.,cultura,FALSO
+Una estrella de neutrones puede tener la masa del Sol en un radio de ~10 km.,ciencia,VERDADERO
+El too big to fail describe a empresas que no necesitan rescate estatal.,economia,FALSO
+El sistema político estadounidense es bipartidista: Partido Demócrata y Partido Republicano.,politica,VERDADERO
+La reunificación alemana ocurrió el 9 de noviembre de 1989.,historia,FALSO
+El Louvre es el museo más visitado del mundo.,cultura,VERDADERO
+Existían más de 5.000 manuscritos de la Biblioteca de Alejandría antes de su destrucción.,historia,NO_VERIFICABLE
+"Marcel Proust escribió 'En busca del tiempo perdido', una de las novelas más largas.",cultura,VERDADERO
+La fusión nuclear libera más energía por gramo de combustible que la fisión.,ciencia,VERDADERO
+Bob Dylan ganó el Premio Nobel de Literatura en 2016.,cultura,VERDADERO
+El teorema de Pitágoras establece que a²+b²=c² en triángulos rectángulos.,ciencia,VERDADERO
+El número exacto de transacciones en efectivo realizadas en España en 2025 fue de 4.000 millones.,economia,NO_VERIFICABLE
+Jorge Luis Borges fue uno de los escritores más influyentes del siglo XX.,cultura,VERDADERO
+Camilo José Cela fue el segundo escritor español en ganar el Nobel de Literatura.,cultura,FALSO
+El océano Pacífico es el más grande de la Tierra.,politica,VERDADERO
+La batalla de Waterloo en 1815 supuso la derrota definitiva de Napoleón.,historia,VERDADERO
+La cantidad exacta de remesas enviadas por emigrantes españoles en 2025 fue de 2.100 millones de euros.,economia,NO_VERIFICABLE
+Fyodor Dostoyevski escribió 'Crimen y Castigo' y 'Los hermanos Karamázov'.,cultura,VERDADERO
+La globalización ha aumentado el comercio internacional en las últimas décadas.,economia,VERDADERO
+Roger Federer se retiró del tenis profesional en 2021.,deportes,FALSO
+La guerra hispano-estadounidense de 1898 significó el fin del Imperio español.,historia,VERDADERO
+El Banco Central puede expandir la oferta monetaria subiendo los tipos de interés.,economia,FALSO
+Elvis Presley es conocido como el 'Rey del Soul'.,cultura,FALSO
+La densidad del agua pura es de 1 g/cm³ a 4°C.,ciencia,VERDADERO
+Los archivos de la URSS sobre la participación soviética en la Guerra Civil española revelan datos inéditos.,historia,NO_VERIFICABLE
+La titulización convierte valores negociables en activos ilíquidos.,economia,FALSO
+La Era Abierta del tenis comenzó en 1968.,deportes,VERDADERO
+El New Deal fue la política económica de Eisenhower para salir de la depresión.,historia,FALSO
+El capital riesgo (venture capital) financia startups a cambio de participación.,economia,VERDADERO
+El Congreso de los Diputados tiene 350 escaños.,politica,VERDADERO
+La OMC (Organización Mundial del Comercio) regula el comercio internacional.,economia,VERDADERO
+La cifra exacta de ayudas estatales a la industria automovilística española en 2025 fue de 1.800 millones.,economia,NO_VERIFICABLE
+Ronaldo Nazário fue seleccionado mejor jugador del mundo solo una vez.,deportes,FALSO
+La OTAN tiene su sede en Washington D.C.,politica,FALSO
+Ludwig van Beethoven compuso siete sinfonías.,cultura,FALSO
+El Parlamento Europeo tiene sede en Estrasburgo y Bruselas.,politica,VERDADERO
+La Primera Guerra Mundial comenzó en 1916 y terminó en 1918.,historia,FALSO
+El cuerpo humano adulto contiene aproximadamente el 60% de agua.,ciencia,VERDADERO
+Carlos I de España fue también Enrique VIII de Inglaterra.,historia,FALSO
+La mitocondria es el orgánulo responsable de la síntesis de proteínas.,ciencia,FALSO
+Finlandia es un estado nórdico que ingresó en la UE en 1995.,politica,VERDADERO
+El Defensor del Pueblo es una institución española que protege los derechos ciudadanos.,politica,VERDADERO
+Los números primos son divisibles solo entre sí mismos y la unidad.,ciencia,VERDADERO
+El tipo sanguíneo más común en el mundo es el O positivo.,ciencia,VERDADERO
+El corazón de un adulto sano late entre 60 y 100 veces por minuto.,ciencia,VERDADERO
+Estados Unidos tiene la mayor deuda pública del mundo en términos absolutos.,economia,VERDADERO
+La crisis de los misiles de Cuba ocurrió en octubre de 1963.,historia,FALSO
+La ley de Mendel describe la herencia de rasgos genéticos.,ciencia,VERDADERO
+El cálculo fue desarrollado exclusivamente por Newton.,ciencia,FALSO
+La popularidad de Pedro Sánchez entre los votantes jóvenes en 2025 era del 31%.,politica,NO_VERIFICABLE
+Pedro Almodóvar ganó el Óscar al mejor director por 'Volver'.,cultura,FALSO
+Johan Cruyff fue el portero más influyente en la historia del Ajax.,deportes,FALSO
+El glaucoma es una enfermedad ocular que daña el nervio óptico.,ciencia,VERDADERO
+La zarzuela fue inventada en el siglo XIX por Felipe II.,cultura,FALSO
+El Partenón fue dedicado a la diosa Atenea.,historia,VERDADERO
+El Estatuto de Autonomía es la norma institucional básica de cada comunidad autónoma.,politica,VERDADERO
+El lago Baikal en Siberia contiene aproximadamente el 20% del agua dulce superficial mundial.,politica,VERDADERO
+La Eurocopa de 2024 se celebró en Alemania.,deportes,VERDADERO
+El museo Reina Sofía alberga 'Las Meninas' de Velázquez.,cultura,FALSO
+El corazón humano tiene cuatro cámaras.,ciencia,VERDADERO
+La Peste Negra mató a aproximadamente un tercio de la población europea en el siglo XIV.,historia,VERDADERO
+El derecho internacional humanitario regula el comercio entre países.,politica,FALSO

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Modelos descargados (pueden ser muy grandes)
+models/
+
+# Resultados y caché
+results.json
+cache/
+
+# Archivos temporales de Word
+~$*.docx
+
+# IDEs
+.vscode/
+.idea/
