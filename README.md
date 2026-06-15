@@ -6,7 +6,7 @@ Sistema de verificación automática de afirmaciones (*fact-checking*) para cont
 
 ## Requisitos
 
-- Python 3.10 o superior
+- **Python 3.10 o superior** — descargable desde [python.org](https://www.python.org/downloads/). Durante la instalación en Windows, marcar la opción **"Add Python to PATH"**.
 - Conexión a internet (para recuperación de evidencia)
 - CPU con al menos 8 GB de RAM recomendados (la inferencia NLI se ejecuta en CPU)
 
@@ -108,7 +108,7 @@ export ANTHROPIC_API_KEY=tu_api_key
 ### Interfaz web (Streamlit)
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 Abre el navegador en `http://localhost:8501`. Permite analizar texto libre o vídeos de YouTube desde una interfaz visual.
